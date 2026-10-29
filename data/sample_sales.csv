@@ -1,0 +1,1501 @@
+order_id,order_date,region,product_category,product,sales,quantity,unit_price,discount,profit,customer_segment
+ORD-100105,2024-01-01,North,Office Supplies,Desk Organizer,1068.49,4,232.28,0.0,230.02,Corporate
+ORD-100283,2024-01-01,North,Electronics,Smartphone,3359.21,11,265.55,0.0,667.53,Consumer
+ORD-101365,2024-01-02,North,Office Supplies,Pens Set,201.71,6,29.22,0.0,45.28,Consumer
+ORD-101355,2024-01-03,West,Electronics,Tablet,6169.27,7,765.66,0.0,300.12,Corporate
+ORD-100380,2024-01-03,East,Office Supplies,Paper Reams,197.67,1,171.73,0.0,27.11,Consumer
+ORD-100545,2024-01-03,North,Furniture,Standing Desk,939.07,1,815.83,0.0,162.4,Consumer
+ORD-101455,2024-01-03,South,Electronics,Smartphone,2203.19,2,1024.65,0.066,129.72,Consumer
+ORD-101311,2024-01-03,West,Grocery,Tea Assortment,196.61,11,18.96,0.181,20.44,Corporate
+ORD-100690,2024-01-04,North,Electronics,Smartphone,904.72,1,877.79,0.105,262.84,Consumer
+ORD-100549,2024-01-04,South,Furniture,Standing Desk,2981.07,8,323.58,0.0,537.69,Home Office
+ORD-100981,2024-01-04,North,Apparel,T-Shirt Pack,2494.94,7,309.5,0.0,768.05,Consumer
+ORD-100931,2024-01-05,East,Furniture,Desk Chair,5492.29,9,709.07,0.253,-38.43,Corporate
+ORD-100008,2024-01-05,North,Electronics,Headphones,18188.39,11,1435.16,0.0,9536.58,Consumer
+ORD-101061,2024-01-05,East,Office Supplies,Whiteboard,87.58,7,10.86,0.0,11.11,Corporate
+ORD-100124,2024-01-06,South,Electronics,Tablet,533.48,2,231.41,0.0,94.47,Consumer
+ORD-100675,2024-01-06,East,Furniture,Standing Desk,1838.36,8,199.36,0.0,217.18,Home Office
+ORD-100198,2024-01-07,West,Electronics,Monitor,4133.31,5,892.71,0.197,-1.6,Consumer
+ORD-100932,2024-01-07,East,Furniture,Bookshelf,5344.36,8,579.3,0.0,919.07,Corporate
+ORD-100680,2024-01-09,West,Electronics,Headphones,15613.19,11,1229.69,0.0,3793.7,Corporate
+ORD-100284,2024-01-09,North,Office Supplies,Whiteboard,233.81,1,202.56,0.0,49.66,Consumer
+ORD-101192,2024-01-09,West,Apparel,T-Shirt Pack,1061.51,5,183.93,0.0,109.41,Corporate
+ORD-100631,2024-01-09,East,Apparel,Running Shoes,154.39,4,33.44,0.0,44.74,Home Office
+ORD-100583,2024-01-10,North,Furniture,Bookshelf,1627.56,6,234.9,0.0,262.96,Corporate
+ORD-100546,2024-01-10,South,Furniture,Standing Desk,1024.62,8,110.91,0.0,518.4,Consumer
+ORD-100482,2024-01-10,West,Office Supplies,Whiteboard,2177.26,9,209.49,0.0,1051.94,Home Office
+ORD-101182,2024-01-10,North,Electronics,Tablet,13293.85,9,1279.1,0.0,1069.95,Corporate
+ORD-101356,2024-01-10,East,Office Supplies,Desk Organizer,1791.26,9,172.35,0.0,696.79,Home Office
+ORD-101411,2024-01-11,North,Grocery,Snack Box,260.06,5,45.02,0.0,111.51,Consumer
+ORD-100934,2024-01-11,East,Apparel,Running Shoes,1709.73,7,211.41,0.0,532.37,Consumer
+ORD-101462,2024-01-11,North,Electronics,Laptop,1279.22,6,184.54,0.0,233.61,Consumer
+ORD-100001,2024-01-11,West,Furniture,Standing Desk,928.11,6,183.41,0.27,34.31,Corporate
+ORD-100072,2024-01-12,East,Apparel,Running Shoes,127.21,7,18.92,0.169,12.28,Home Office
+ORD-101205,2024-01-13,South,Electronics,Laptop,5864.67,9,795.91,0.292,1127.95,Corporate
+ORD-101373,2024-01-13,North,Apparel,Running Shoes,1537.71,5,265.95,0.0,-17.63,Consumer
+ORD-100717,2024-01-13,West,Electronics,Headphones,16371.29,10,1532.17,0.076,1787.4,Home Office
+ORD-101190,2024-01-13,West,Furniture,Desk Chair,622.33,1,538.17,0.0,242.96,Consumer
+ORD-101059,2024-01-14,North,Office Supplies,Paper Reams,828.8,7,102.34,0.0,330.46,Home Office
+ORD-100117,2024-01-14,East,Office Supplies,Paper Reams,446.34,10,38.58,0.0,158.35,Corporate
+ORD-100372,2024-01-14,West,Furniture,Bookshelf,9215.86,9,926.8,0.045,2787.03,Home Office
+ORD-101230,2024-01-14,North,Electronics,Headphones,6549.64,9,629.03,0.0,999.38,Home Office
+ORD-100630,2024-01-16,North,Grocery,Tea Assortment,289.03,6,41.6,0.0,83.24,Consumer
+ORD-100504,2024-01-16,North,Office Supplies,Desk Organizer,511.51,3,187.33,0.214,-7.96,Corporate
+ORD-100083,2024-01-17,North,Electronics,Headphones,1505.67,5,259.93,0.0,365.43,Corporate
+ORD-100937,2024-01-17,East,Electronics,Laptop,1235.71,1,1066.63,0.0,325.13,Corporate
+ORD-100050,2024-01-17,North,Electronics,Tablet,1959.05,2,845.5,0.0,549.11,Home Office
+ORD-100700,2024-01-19,North,Electronics,Tablet,1512.41,3,513.29,0.153,291.67,Home Office
+ORD-100186,2024-01-19,East,Furniture,Bookshelf,818.58,1,705.93,0.0,155.69,Corporate
+ORD-100345,2024-01-19,East,Apparel,Backpack,2673.15,11,209.57,0.0,679.6,Corporate
+ORD-100348,2024-01-20,South,Office Supplies,Whiteboard,569.85,4,122.8,0.0,241.52,Corporate
+ORD-100491,2024-01-20,East,Office Supplies,Pens Set,1317.44,7,162.23,0.0,512.93,Consumer
+ORD-101435,2024-01-21,South,Grocery,Olive Oil,195.92,7,27.75,0.131,33.64,Corporate
+ORD-100135,2024-01-21,South,Electronics,Tablet,4345.08,7,534.81,0.0,1244.36,Corporate
+ORD-101282,2024-01-21,East,Furniture,Conference Table,1010.6,4,217.68,0.0,445.48,Corporate
+ORD-100352,2024-01-21,East,Office Supplies,Whiteboard,462.68,3,185.07,0.282,-28.63,Consumer
+ORD-101275,2024-01-22,South,Furniture,Desk Chair,857.47,1,738.45,0.0,151.87,Consumer
+ORD-100287,2024-01-22,East,Furniture,Standing Desk,8570.81,8,922.64,0.0,4141.92,Consumer
+ORD-100664,2024-01-22,West,Furniture,Bookshelf,1402.33,4,301.92,0.0,287.12,Consumer
+ORD-100824,2024-01-22,North,Apparel,Winter Jacket,1766.67,8,190.18,0.0,1094.46,Corporate
+ORD-101251,2024-01-23,East,Electronics,Headphones,4569.81,4,983.42,0.0,952.49,Consumer
+ORD-101134,2024-01-23,East,Grocery,Olive Oil,119.89,5,20.64,0.0,41.19,Corporate
+ORD-101492,2024-01-24,South,Office Supplies,Whiteboard,1288.98,6,184.84,0.0,193.44,Home Office
+ORD-101009,2024-01-24,East,Furniture,Desk Chair,5644.43,9,539.61,0.0,948.2,Corporate
+ORD-100540,2024-01-24,South,Grocery,Snack Box,312.99,5,53.86,0.0,91.74,Home Office
+ORD-100605,2024-01-25,East,Apparel,Winter Jacket,173.47,4,47.21,0.21,29.63,Consumer
+ORD-101065,2024-01-26,South,Grocery,Olive Oil,400.48,7,49.18,0.0,-30.81,Corporate
+ORD-100052,2024-01-26,South,Apparel,Backpack,1755.78,7,273.97,0.213,148.9,Corporate
+ORD-100363,2024-01-26,East,Electronics,Headphones,2316.34,8,336.8,0.261,-319.0,Corporate
+ORD-101347,2024-01-26,North,Furniture,Standing Desk,2735.06,6,494.76,0.208,229.52,Home Office
+ORD-100475,2024-01-27,North,Furniture,Desk Chair,695.51,5,119.52,0.0,45.92,Consumer
+ORD-101351,2024-01-27,South,Apparel,Running Shoes,700.38,10,63.08,0.046,105.47,Consumer
+ORD-100081,2024-01-27,South,Furniture,Standing Desk,1392.37,11,108.76,0.0,447.6,Consumer
+ORD-100892,2024-01-27,South,Electronics,Laptop,1807.87,9,227.1,0.24,-340.58,Corporate
+ORD-101300,2024-01-28,West,Electronics,Smartphone,7226.34,7,886.6,0.0,3625.93,Consumer
+ORD-101167,2024-01-28,North,Office Supplies,Desk Organizer,437.36,7,53.66,0.0,109.64,Consumer
+ORD-101454,2024-01-29,East,Furniture,Standing Desk,2011.21,2,911.56,0.053,631.96,Corporate
+ORD-100883,2024-01-29,North,Furniture,Desk Chair,3623.28,4,777.59,0.0,1730.86,Consumer
+ORD-101413,2024-01-29,East,Grocery,Snack Box,214.98,5,36.91,0.0,18.35,Consumer
+ORD-100271,2024-01-29,West,Electronics,Monitor,572.87,1,491.77,0.0,125.6,Corporate
+ORD-101369,2024-01-30,North,Furniture,Standing Desk,5157.89,5,885.14,0.0,1753.36,Consumer
+ORD-101119,2024-01-30,West,Grocery,Tea Assortment,468.04,10,40.16,0.0,208.66,Consumer
+ORD-101237,2024-01-30,East,Furniture,Desk Chair,3639.61,5,624.59,0.0,958.21,Home Office
+ORD-101273,2024-01-30,North,Office Supplies,Pens Set,518.45,7,63.55,0.0,146.66,Home Office
+ORD-101112,2024-01-31,South,Office Supplies,Whiteboard,193.03,1,165.55,0.0,53.17,Corporate
+ORD-100792,2024-01-31,East,Furniture,Conference Table,4907.44,6,701.48,0.0,404.63,Consumer
+ORD-100436,2024-02-01,South,Electronics,Tablet,10200.38,9,971.6,0.0,3453.18,Consumer
+ORD-100456,2024-02-02,East,Grocery,Snack Box,321.38,11,29.91,0.163,70.39,Home Office
+ORD-100952,2024-02-02,East,Electronics,Monitor,3363.59,9,320.24,0.0,1153.29,Home Office
+ORD-101309,2024-02-03,North,Grocery,Olive Oil,208.33,7,25.49,0.0,59.85,Corporate
+ORD-100430,2024-02-04,East,Grocery,Olive Oil,204.58,9,26.44,0.264,33.21,Corporate
+ORD-101030,2024-02-04,East,Office Supplies,Desk Organizer,67.21,7,8.22,0.0,9.77,Corporate
+ORD-100924,2024-02-04,West,Electronics,Smartphone,3181.3,4,680.87,0.0,758.03,Consumer
+ORD-100274,2024-02-05,East,Office Supplies,Paper Reams,156.85,9,16.21,0.08,54.04,Corporate
+ORD-100517,2024-02-05,North,Apparel,Backpack,998.62,4,213.63,0.0,500.38,Consumer
+ORD-100830,2024-02-05,East,Office Supplies,Whiteboard,1289.37,9,122.59,0.0,427.11,Consumer
+ORD-101064,2024-02-06,East,Furniture,Desk Chair,907.78,2,407.79,0.048,394.34,Consumer
+ORD-101438,2024-02-07,North,Grocery,Snack Box,152.21,9,15.75,0.082,37.06,Consumer
+ORD-100449,2024-02-07,West,Office Supplies,Desk Organizer,1624.78,10,184.47,0.247,152.87,Home Office
+ORD-100943,2024-02-08,East,Furniture,Desk Chair,1285.62,2,599.02,0.083,172.92,Corporate
+ORD-100101,2024-02-08,North,Office Supplies,Desk Organizer,630.52,10,53.88,0.0,145.48,Consumer
+ORD-100489,2024-02-08,North,Office Supplies,Whiteboard,2506.0,9,237.94,0.0,738.54,Consumer
+ORD-100172,2024-02-08,East,Electronics,Smartphone,911.49,1,778.9,0.0,605.11,Corporate
+ORD-100418,2024-02-09,East,Electronics,Laptop,7469.9,4,1595.09,0.0,1140.12,Consumer
+ORD-100224,2024-02-09,South,Electronics,Tablet,1828.98,2,976.38,0.2,55.39,Consumer
+ORD-100673,2024-02-09,North,Office Supplies,Desk Organizer,346.66,3,108.94,0.094,49.93,Consumer
+ORD-100176,2024-02-09,East,Furniture,Standing Desk,7322.07,9,694.9,0.0,1835.86,Home Office
+ORD-100704,2024-02-09,South,Electronics,Smartphone,3126.82,3,890.25,0.0,1572.34,Consumer
+ORD-101417,2024-02-09,West,Office Supplies,Desk Organizer,1981.96,8,211.61,0.0,549.55,Consumer
+ORD-101419,2024-02-09,East,Grocery,Olive Oil,109.47,11,8.5,0.0,21.56,Corporate
+ORD-100551,2024-02-10,North,Electronics,Tablet,2514.88,5,523.68,0.18,783.61,Corporate
+ORD-100159,2024-02-10,North,Apparel,Winter Jacket,1751.73,5,299.11,0.0,195.0,Consumer
+ORD-101024,2024-02-11,West,Office Supplies,Pens Set,36.69,1,31.31,0.0,-1.42,Corporate
+ORD-100357,2024-02-11,South,Apparel,Backpack,3899.78,11,302.54,0.0,669.08,Consumer
+ORD-101292,2024-02-11,East,Office Supplies,Pens Set,2582.02,11,200.31,0.0,826.91,Consumer
+ORD-101318,2024-02-12,South,Apparel,Backpack,470.07,3,154.87,0.137,78.38,Home Office
+ORD-100612,2024-02-12,North,Grocery,Tea Assortment,225.37,6,32.04,0.0,62.69,Corporate
+ORD-100155,2024-02-12,South,Office Supplies,Whiteboard,35.77,1,30.51,0.0,7.74,Consumer
+ORD-100916,2024-02-13,North,Electronics,Monitor,4145.36,5,706.86,0.0,1446.59,Corporate
+ORD-101170,2024-02-13,East,Furniture,Desk Chair,3034.46,6,518.26,0.168,607.89,Home Office
+ORD-101228,2024-02-14,South,Grocery,Tea Assortment,149.52,11,13.94,0.169,15.09,Corporate
+ORD-100555,2024-02-14,South,Electronics,Laptop,8918.62,10,760.05,0.0,3093.24,Corporate
+ORD-100327,2024-02-14,South,Office Supplies,Paper Reams,1710.51,11,142.34,0.069,-147.98,Home Office
+ORD-100534,2024-02-15,North,Electronics,Headphones,2051.59,2,873.79,0.0,378.92,Corporate
+ORD-100041,2024-02-15,North,Apparel,Backpack,19.62,1,16.71,0.0,3.32,Home Office
+ORD-100142,2024-02-16,South,Grocery,Tea Assortment,19.9,2,8.47,0.0,1.9,Home Office
+ORD-100709,2024-02-16,North,Furniture,Bookshelf,764.21,3,216.89,0.0,234.19,Corporate
+ORD-100413,2024-02-16,East,Grocery,Coffee Beans,133.82,2,56.97,0.0,35.63,Consumer
+ORD-101303,2024-02-17,East,Electronics,Laptop,5607.08,6,921.57,0.137,1618.98,Consumer
+ORD-100071,2024-02-18,East,Furniture,Desk Chair,1600.87,11,123.8,0.0,241.68,Home Office
+ORD-101458,2024-02-19,North,Grocery,Coffee Beans,55.69,5,9.47,0.0,16.65,Consumer
+ORD-100128,2024-02-23,North,Electronics,Monitor,1199.98,1,1018.47,0.0,132.31,Corporate
+ORD-100662,2024-02-23,South,Electronics,Headphones,2050.81,5,348.12,0.0,702.35,Home Office
+ORD-101445,2024-02-23,South,Office Supplies,Desk Organizer,752.65,4,159.7,0.0,263.0,Consumer
+ORD-101308,2024-02-24,North,Electronics,Tablet,1175.34,3,332.37,0.0,457.02,Home Office
+ORD-100078,2024-02-24,West,Office Supplies,Desk Organizer,84.62,3,23.93,0.0,13.94,Corporate
+ORD-101497,2024-02-25,North,Office Supplies,Whiteboard,734.28,5,124.53,0.0,287.67,Consumer
+ORD-101447,2024-02-25,West,Office Supplies,Whiteboard,1215.62,11,93.71,0.0,375.68,Consumer
+ORD-100979,2024-02-25,West,Electronics,Smartphone,15385.74,10,1304.67,0.0,4344.47,Corporate
+ORD-101441,2024-02-25,North,Electronics,Smartphone,6682.01,4,1495.82,0.053,858.18,Consumer
+ORD-100838,2024-02-25,East,Furniture,Bookshelf,4413.06,4,935.54,0.0,968.68,Corporate
+ORD-100330,2024-02-26,South,Apparel,Winter Jacket,1224.27,7,148.24,0.0,691.73,Home Office
+ORD-100218,2024-02-26,East,Grocery,Olive Oil,150.14,9,14.14,0.0,55.73,Consumer
+ORD-101156,2024-02-27,South,Electronics,Smartphone,11032.19,6,1557.76,0.0,4472.99,Home Office
+ORD-101244,2024-02-27,South,Furniture,Bookshelf,4678.11,11,484.93,0.257,-582.05,Corporate
+ORD-100315,2024-02-27,East,Furniture,Desk Chair,5524.77,9,520.07,0.0,721.81,Consumer
+ORD-100960,2024-02-27,West,Office Supplies,Paper Reams,857.22,8,90.78,0.0,300.47,Consumer
+ORD-100217,2024-02-27,East,Electronics,Smartphone,6084.17,4,1288.64,0.0,660.87,Consumer
+ORD-100774,2024-02-28,West,Electronics,Laptop,4664.62,4,987.53,0.0,752.67,Corporate
+ORD-100773,2024-02-28,West,Apparel,Winter Jacket,1478.56,4,313.02,0.0,317.2,Home Office
+ORD-101475,2024-02-28,West,Office Supplies,Pens Set,913.72,6,128.96,0.0,316.24,Corporate
+ORD-101484,2024-02-29,North,Office Supplies,Desk Organizer,139.01,2,76.11,0.227,17.29,Home Office
+ORD-100499,2024-02-29,East,Office Supplies,Pens Set,1531.54,9,144.04,0.0,612.19,Home Office
+ORD-100314,2024-02-29,West,Furniture,Desk Chair,8861.91,11,681.92,0.0,-328.35,Consumer
+ORD-101060,2024-02-29,East,Grocery,Olive Oil,13.09,1,12.72,0.129,2.26,Home Office
+ORD-100249,2024-02-29,South,Furniture,Bookshelf,2043.56,5,409.41,0.155,-191.91,Consumer
+ORD-101390,2024-02-29,North,Grocery,Olive Oil,42.22,2,17.87,0.0,10.65,Consumer
+ORD-100353,2024-03-01,East,Office Supplies,Whiteboard,334.54,3,108.5,0.0,38.59,Consumer
+ORD-100029,2024-03-02,North,Office Supplies,Pens Set,298.96,8,48.33,0.248,28.47,Consumer
+ORD-100070,2024-03-02,South,Electronics,Monitor,11543.79,9,1663.22,0.25,85.51,Consumer
+ORD-100731,2024-03-03,East,Electronics,Smartphone,6368.01,6,1031.72,0.0,857.26,Home Office
+ORD-101229,2024-03-04,West,Electronics,Monitor,3665.79,2,1780.95,0.0,793.93,Consumer
+ORD-101188,2024-03-04,North,Electronics,Laptop,2026.27,5,393.77,0.0,271.49,Consumer
+ORD-100834,2024-03-05,South,Office Supplies,Desk Organizer,535.82,6,100.97,0.141,150.97,Consumer
+ORD-100694,2024-03-05,East,Grocery,Coffee Beans,328.57,11,29.01,0.0,94.46,Corporate
+ORD-101107,2024-03-05,North,Furniture,Bookshelf,4730.7,8,574.32,0.0,881.72,Corporate
+ORD-101388,2024-03-05,North,Grocery,Tea Assortment,51.07,10,4.96,0.0,18.72,Corporate
+ORD-100027,2024-03-06,South,Electronics,Tablet,2605.8,8,316.21,0.0,739.05,Home Office
+ORD-100821,2024-03-06,North,Office Supplies,Pens Set,2133.83,11,225.26,0.164,844.75,Corporate
+ORD-100815,2024-03-06,South,Grocery,Tea Assortment,143.8,10,13.96,0.0,44.55,Consumer
+ORD-101254,2024-03-07,West,Electronics,Headphones,9491.57,9,1023.35,0.0,1682.77,Home Office
+ORD-100282,2024-03-07,North,Electronics,Headphones,4961.01,8,774.44,0.223,541.38,Consumer
+ORD-101439,2024-03-07,North,Grocery,Tea Assortment,451.3,9,55.23,0.119,132.04,Consumer
+ORD-100464,2024-03-07,East,Office Supplies,Pens Set,221.08,2,136.99,0.217,-24.02,Corporate
+ORD-100722,2024-03-07,South,Electronics,Headphones,8480.44,10,822.9,0.0,891.14,Home Office
+ORD-101385,2024-03-07,North,Electronics,Laptop,2146.77,2,1446.61,0.28,-448.17,Home Office
+ORD-100677,2024-03-07,West,Office Supplies,Pens Set,1992.92,9,214.87,0.0,581.52,Corporate
+ORD-100307,2024-03-08,South,Office Supplies,Paper Reams,211.24,1,204.88,0.0,52.97,Consumer
+ORD-101325,2024-03-08,East,Apparel,T-Shirt Pack,375.9,3,121.53,0.0,68.14,Corporate
+ORD-100707,2024-03-08,South,Apparel,Backpack,1095.75,6,177.13,0.0,394.75,Corporate
+ORD-101337,2024-03-08,North,Office Supplies,Whiteboard,375.09,3,121.27,0.0,121.55,Consumer
+ORD-101370,2024-03-08,East,Electronics,Smartphone,932.22,2,621.0,0.272,-115.27,Consumer
+ORD-100018,2024-03-08,North,Apparel,T-Shirt Pack,249.37,1,241.87,0.0,56.18,Consumer
+ORD-100770,2024-03-09,East,Electronics,Headphones,4226.48,8,705.49,0.274,193.5,Home Office
+ORD-100096,2024-03-09,North,Furniture,Standing Desk,563.68,4,136.62,0.0,254.67,Consumer
+ORD-100305,2024-03-09,East,Furniture,Standing Desk,907.37,6,157.31,0.068,332.27,Consumer
+ORD-101080,2024-03-10,North,Electronics,Monitor,10685.17,7,1479.2,0.0,5740.85,Consumer
+ORD-100710,2024-03-10,West,Grocery,Olive Oil,77.61,9,11.82,0.293,-11.75,Home Office
+ORD-100477,2024-03-11,West,Office Supplies,Pens Set,219.45,2,106.28,0.0,28.81,Home Office
+ORD-100009,2024-03-11,East,Furniture,Conference Table,5115.37,6,825.8,0.0,1288.98,Corporate
+ORD-100355,2024-03-12,West,Office Supplies,Whiteboard,1408.49,11,123.97,0.0,457.02,Consumer
+ORD-100190,2024-03-12,West,Grocery,Olive Oil,577.96,11,50.87,0.0,146.86,Consumer
+ORD-100409,2024-03-13,West,Grocery,Tea Assortment,77.86,5,15.07,0.0,13.11,Consumer
+ORD-100233,2024-03-14,North,Office Supplies,Pens Set,249.56,4,60.35,0.0,31.33,Consumer
+ORD-100697,2024-03-14,East,Office Supplies,Desk Organizer,113.42,3,36.57,0.0,24.09,Consumer
+ORD-100577,2024-03-14,North,Office Supplies,Pens Set,1139.88,6,183.77,0.0,344.97,Consumer
+ORD-100578,2024-03-14,South,Apparel,T-Shirt Pack,3093.3,11,310.52,0.124,483.07,Corporate
+ORD-101481,2024-03-15,North,Electronics,Laptop,1716.38,1,1659.53,0.0,384.59,Corporate
+ORD-101453,2024-03-15,West,Grocery,Tea Assortment,287.63,8,37.38,0.07,119.36,Corporate
+ORD-100693,2024-03-15,North,Furniture,Conference Table,4913.5,6,791.79,0.0,626.29,Corporate
+ORD-100077,2024-03-17,West,Office Supplies,Pens Set,188.38,2,90.99,0.0,41.06,Corporate
+ORD-100808,2024-03-17,East,Office Supplies,Pens Set,499.19,6,106.45,0.245,-18.35,Home Office
+ORD-101424,2024-03-17,North,Furniture,Conference Table,6814.3,9,731.41,0.0,1857.54,Corporate
+ORD-100351,2024-03-17,West,Electronics,Monitor,7897.92,6,1664.37,0.236,-978.91,Consumer
+ORD-100088,2024-03-18,South,Electronics,Tablet,4385.08,6,705.69,0.0,1324.15,Corporate
+ORD-101302,2024-03-19,North,Apparel,T-Shirt Pack,880.0,3,283.11,0.0,329.9,Home Office
+ORD-101127,2024-03-19,South,Office Supplies,Desk Organizer,897.55,9,114.45,0.159,-97.02,Consumer
+ORD-100761,2024-03-21,West,Electronics,Headphones,4616.97,4,1113.02,0.0,1288.81,Consumer
+ORD-100439,2024-03-21,North,Office Supplies,Paper Reams,733.19,5,141.4,0.0,160.08,Corporate
+ORD-101155,2024-03-21,West,Electronics,Smartphone,4263.4,3,1370.38,0.0,478.31,Consumer
+ORD-100262,2024-03-22,North,Furniture,Conference Table,924.15,7,127.25,0.0,386.55,Consumer
+ORD-101090,2024-03-22,West,Electronics,Laptop,6598.3,9,926.14,0.237,1157.97,Consumer
+ORD-101083,2024-03-22,North,Apparel,T-Shirt Pack,407.17,5,78.49,0.0,85.58,Consumer
+ORD-100220,2024-03-23,North,Furniture,Standing Desk,2422.87,5,466.85,0.0,961.79,Consumer
+ORD-100871,2024-03-24,South,Electronics,Laptop,4456.88,4,1072.99,0.0,342.41,Consumer
+ORD-101416,2024-03-24,North,Office Supplies,Pens Set,579.55,10,55.81,0.0,155.47,Corporate
+ORD-100110,2024-03-24,North,Furniture,Standing Desk,1496.58,10,153.81,0.063,593.77,Consumer
+ORD-100319,2024-03-25,East,Grocery,Tea Assortment,270.67,7,37.22,0.0,39.95,Consumer
+ORD-100679,2024-03-25,West,Furniture,Bookshelf,1985.86,4,477.88,0.0,811.97,Consumer
+ORD-100602,2024-03-26,West,Grocery,Tea Assortment,126.53,8,18.49,0.177,24.99,Corporate
+ORD-101097,2024-03-26,South,Apparel,T-Shirt Pack,853.48,7,117.31,0.0,313.81,Corporate
+ORD-100923,2024-03-26,North,Office Supplies,Desk Organizer,301.78,3,126.02,0.232,-78.07,Home Office
+ORD-100921,2024-03-26,North,Apparel,Backpack,532.69,2,256.26,0.0,47.37,Home Office
+ORD-100341,2024-03-26,East,Grocery,Olive Oil,593.86,11,54.62,0.049,188.45,Home Office
+ORD-100460,2024-03-27,East,Office Supplies,Whiteboard,563.28,9,60.19,0.0,119.26,Consumer
+ORD-100843,2024-03-27,South,Furniture,Conference Table,1677.37,5,375.15,0.14,347.02,Corporate
+ORD-100967,2024-03-27,East,Electronics,Tablet,4700.66,11,410.97,0.0,1408.11,Consumer
+ORD-100129,2024-03-27,South,Office Supplies,Pens Set,145.82,4,35.06,0.0,32.01,Home Office
+ORD-100145,2024-03-28,South,Electronics,Tablet,1261.1,1,1212.27,0.0,300.49,Corporate
+ORD-100572,2024-03-28,North,Office Supplies,Pens Set,820.16,5,157.68,0.0,313.61,Consumer
+ORD-101123,2024-03-28,West,Electronics,Laptop,4927.73,3,1578.98,0.0,1646.48,Consumer
+ORD-100528,2024-03-28,East,Apparel,Winter Jacket,1070.07,6,171.44,0.0,373.57,Home Office
+ORD-101213,2024-03-29,North,Furniture,Bookshelf,1482.3,3,603.25,0.213,349.57,Consumer
+ORD-100326,2024-03-29,East,Apparel,T-Shirt Pack,1874.24,8,273.19,0.176,110.94,Consumer
+ORD-101386,2024-03-30,North,Office Supplies,Pens Set,987.29,7,135.46,0.0,383.86,Consumer
+ORD-101007,2024-03-30,West,Furniture,Conference Table,132.08,1,126.85,0.0,34.94,Consumer
+ORD-100417,2024-03-31,East,Apparel,Running Shoes,400.42,5,76.88,0.0,32.45,Corporate
+ORD-100394,2024-03-31,South,Electronics,Headphones,7862.08,8,1129.88,0.165,1134.68,Corporate
+ORD-100993,2024-03-31,West,Electronics,Laptop,1550.97,2,991.3,0.249,-294.87,Consumer
+ORD-101121,2024-04-01,West,Electronics,Headphones,1028.58,8,131.39,0.061,381.89,Corporate
+ORD-101409,2024-04-01,East,Office Supplies,Pens Set,237.86,4,57.06,0.0,55.34,Consumer
+ORD-101405,2024-04-01,East,Electronics,Headphones,447.01,3,142.98,0.0,30.23,Corporate
+ORD-100944,2024-04-01,South,Furniture,Standing Desk,2581.71,6,412.89,0.0,556.13,Consumer
+ORD-101221,2024-04-02,West,Electronics,Monitor,1382.51,4,452.88,0.268,-401.3,Consumer
+ORD-101403,2024-04-02,West,Furniture,Standing Desk,6059.62,11,528.37,0.0,1135.45,Consumer
+ORD-100276,2024-04-02,East,Furniture,Standing Desk,1918.25,7,262.84,0.0,727.66,Consumer
+ORD-101263,2024-04-04,South,Grocery,Coffee Beans,44.66,10,4.28,0.0,16.91,Home Office
+ORD-101084,2024-04-04,North,Grocery,Olive Oil,285.32,7,39.06,0.0,95.49,Corporate
+ORD-101349,2024-04-04,South,Electronics,Headphones,353.27,1,338.54,0.0,82.32,Home Office
+ORD-101161,2024-04-04,South,Office Supplies,Desk Organizer,351.37,3,112.24,0.0,74.9,Consumer
+ORD-100277,2024-04-04,South,Office Supplies,Pens Set,1170.86,7,160.29,0.0,88.3,Corporate
+ORD-100668,2024-04-05,South,Electronics,Monitor,1850.1,4,443.04,0.0,562.86,Consumer
+ORD-100653,2024-04-06,West,Electronics,Tablet,7686.97,9,1002.16,0.184,-268.06,Consumer
+ORD-100258,2024-04-06,West,Electronics,Headphones,4857.08,5,930.08,0.0,641.3,Corporate
+ORD-100620,2024-04-06,North,Apparel,Winter Jacket,2458.95,9,261.59,0.0,883.54,Corporate
+ORD-101232,2024-04-07,East,Electronics,Smartphone,1412.41,3,450.57,0.0,576.4,Corporate
+ORD-100805,2024-04-07,South,Electronics,Headphones,16302.49,11,1418.35,0.0,1972.39,Consumer
+ORD-101260,2024-04-07,East,Electronics,Smartphone,18449.1,11,1605.11,0.0,3470.65,Home Office
+ORD-100591,2024-04-07,West,Furniture,Standing Desk,4540.36,9,682.89,0.293,-1027.49,Consumer
+ORD-100195,2024-04-08,East,Electronics,Monitor,6637.3,8,818.2,0.03,1443.82,Consumer
+ORD-100178,2024-04-09,West,Grocery,Coffee Beans,101.15,4,24.18,0.0,31.44,Consumer
+ORD-101473,2024-04-09,West,Office Supplies,Paper Reams,1322.06,11,114.92,0.0,417.12,Consumer
+ORD-100660,2024-04-09,South,Electronics,Headphones,1419.22,2,678.51,0.0,336.99,Consumer
+ORD-100474,2024-04-10,North,Electronics,Tablet,327.75,1,313.25,0.0,30.85,Corporate
+ORD-100442,2024-04-10,South,Apparel,T-Shirt Pack,1773.66,7,270.58,0.105,369.04,Consumer
+ORD-100593,2024-04-11,North,Office Supplies,Whiteboard,610.41,3,194.38,0.0,50.11,Consumer
+ORD-100015,2024-04-11,North,Electronics,Headphones,2287.8,10,218.56,0.0,700.14,Corporate
+ORD-100082,2024-04-11,South,Apparel,T-Shirt Pack,1240.47,8,189.67,0.219,-43.3,Corporate
+ORD-100879,2024-04-11,East,Office Supplies,Whiteboard,243.41,7,33.22,0.0,75.37,Consumer
+ORD-100850,2024-04-12,North,Electronics,Monitor,1454.87,1,1792.6,0.225,-45.87,Consumer
+ORD-101075,2024-04-12,East,Furniture,Conference Table,3027.18,6,481.78,0.0,507.95,Consumer
+ORD-100151,2024-04-12,North,Grocery,Coffee Beans,468.78,11,44.09,0.077,73.23,Corporate
+ORD-100975,2024-04-12,North,Office Supplies,Desk Organizer,164.73,11,14.3,0.0,30.48,Consumer
+ORD-101353,2024-04-13,South,Furniture,Conference Table,4258.0,7,580.6,0.0,1598.82,Consumer
+ORD-100294,2024-04-13,West,Apparel,Winter Jacket,205.04,4,55.16,0.113,8.4,Consumer
+ORD-101457,2024-04-14,North,Furniture,Desk Chair,9017.21,11,782.09,0.0,1711.51,Corporate
+ORD-100431,2024-04-14,East,Apparel,Backpack,156.9,1,149.69,0.0,54.36,Corporate
+ORD-100506,2024-04-15,South,Furniture,Standing Desk,4830.4,7,900.23,0.269,251.45,Consumer
+ORD-100257,2024-04-15,West,Electronics,Smartphone,226.57,1,306.04,0.294,-7.97,Consumer
+ORD-101029,2024-04-16,East,Furniture,Standing Desk,905.07,1,862.73,0.0,247.6,Home Office
+ORD-100501,2024-04-16,South,Grocery,Coffee Beans,227.02,10,21.64,0.0,86.83,Corporate
+ORD-100970,2024-04-17,South,Electronics,Headphones,13409.97,9,1419.67,0.0,4005.54,Home Office
+ORD-101071,2024-04-17,East,Office Supplies,Desk Organizer,582.4,10,58.35,0.049,173.07,Corporate
+ORD-100281,2024-04-18,West,Electronics,Headphones,461.61,1,570.95,0.23,35.25,Consumer
+ORD-100701,2024-04-18,West,Furniture,Bookshelf,4571.77,7,622.01,0.0,2074.71,Consumer
+ORD-100300,2024-04-18,East,Apparel,T-Shirt Pack,649.74,8,77.35,0.0,54.89,Home Office
+ORD-101495,2024-04-18,South,Office Supplies,Whiteboard,189.59,1,180.56,0.0,25.74,Consumer
+ORD-100790,2024-04-18,West,Electronics,Tablet,5107.84,9,749.67,0.279,329.05,Consumer
+ORD-100187,2024-04-19,East,Electronics,Headphones,5304.45,9,561.07,0.0,1519.53,Home Office
+ORD-101020,2024-04-19,North,Grocery,Snack Box,241.7,4,59.24,0.029,94.15,Consumer
+ORD-100976,2024-04-19,North,Furniture,Desk Chair,8340.89,10,794.02,0.0,2672.05,Consumer
+ORD-101025,2024-04-20,North,Furniture,Bookshelf,3979.91,8,534.29,0.114,84.19,Home Office
+ORD-100736,2024-04-20,North,Electronics,Tablet,1436.32,10,144.78,0.056,-121.53,Consumer
+ORD-101464,2024-04-20,North,Office Supplies,Pens Set,1577.16,7,229.05,0.064,714.61,Consumer
+ORD-100622,2024-04-21,North,Grocery,Olive Oil,31.53,10,3.16,0.051,6.09,Consumer
+ORD-100094,2024-04-21,West,Furniture,Bookshelf,2920.88,3,926.04,0.0,386.8,Consumer
+ORD-101398,2024-04-22,East,Office Supplies,Whiteboard,2634.94,11,239.97,0.051,729.09,Consumer
+ORD-100603,2024-04-22,West,Office Supplies,Paper Reams,426.85,9,45.09,0.0,146.41,Consumer
+ORD-101382,2024-04-22,East,Office Supplies,Desk Organizer,2442.57,11,227.24,0.071,234.25,Consumer
+ORD-100955,2024-04-22,East,Grocery,Olive Oil,349.43,11,30.2,0.0,100.49,Corporate
+ORD-100481,2024-04-23,South,Electronics,Smartphone,5692.73,6,901.62,0.0,1277.89,Corporate
+ORD-101128,2024-04-23,South,Office Supplies,Pens Set,957.94,5,205.49,0.114,111.49,Corporate
+ORD-100928,2024-04-24,East,Office Supplies,Desk Organizer,503.31,6,79.68,0.0,135.76,Consumer
+ORD-100510,2024-04-24,North,Electronics,Headphones,1517.2,1,1441.14,0.0,421.1,Home Office
+ORD-100134,2024-04-24,West,Office Supplies,Paper Reams,651.6,8,84.37,0.083,69.86,Corporate
+ORD-100189,2024-04-24,South,Electronics,Smartphone,6606.54,7,1146.39,0.218,1227.18,Consumer
+ORD-100537,2024-04-25,North,Electronics,Laptop,12816.85,11,1106.27,0.0,5522.44,Corporate
+ORD-101255,2024-04-25,West,Apparel,Running Shoes,251.94,8,29.9,0.0,63.6,Consumer
+ORD-100194,2024-04-26,East,Electronics,Monitor,1227.52,6,194.16,0.0,299.94,Corporate
+ORD-100295,2024-04-26,South,Grocery,Olive Oil,254.84,5,48.37,0.0,66.0,Home Office
+ORD-100853,2024-04-26,East,Grocery,Coffee Beans,82.95,3,26.24,0.0,15.07,Consumer
+ORD-100241,2024-04-26,North,Apparel,Running Shoes,291.12,4,69.07,0.0,52.14,Corporate
+ORD-101307,2024-04-27,East,Office Supplies,Whiteboard,2009.24,10,190.6,0.0,389.91,Consumer
+ORD-100215,2024-04-27,West,Apparel,Winter Jacket,65.78,1,62.4,0.0,18.9,Corporate
+ORD-100819,2024-04-27,West,Electronics,Monitor,5292.4,4,1748.07,0.282,-67.48,Home Office
+ORD-101001,2024-04-27,East,Furniture,Desk Chair,5778.77,7,864.37,0.094,948.49,Consumer
+ORD-100100,2024-04-28,West,Grocery,Snack Box,145.58,4,34.51,0.0,32.77,Home Office
+ORD-101210,2024-04-28,West,Apparel,T-Shirt Pack,1087.43,6,171.85,0.0,107.8,Corporate
+ORD-100566,2024-04-28,East,Apparel,Backpack,2209.51,11,190.46,0.0,269.52,Home Office
+ORD-101082,2024-04-28,North,Grocery,Coffee Beans,50.95,1,48.31,0.0,1.09,Corporate
+ORD-101265,2024-04-28,West,Apparel,Backpack,300.41,9,31.65,0.0,52.62,Corporate
+ORD-100822,2024-04-28,South,Electronics,Headphones,1989.05,2,943.01,0.0,464.41,Corporate
+ORD-100632,2024-04-29,West,Electronics,Monitor,1687.96,1,1599.82,0.0,454.06,Corporate
+ORD-100753,2024-04-29,East,Furniture,Bookshelf,5937.6,8,871.68,0.193,419.25,Corporate
+ORD-100793,2024-04-29,South,Electronics,Headphones,8105.23,7,1097.43,0.0,2899.57,Consumer
+ORD-100279,2024-04-29,South,Apparel,Backpack,139.35,5,33.1,0.202,-32.6,Consumer
+ORD-100963,2024-04-30,East,Electronics,Tablet,7717.02,10,785.27,0.069,2002.16,Consumer
+ORD-101151,2024-04-30,South,Apparel,Running Shoes,1514.17,6,239.08,0.0,531.24,Corporate
+ORD-100920,2024-04-30,North,Electronics,Headphones,10794.72,8,1381.97,0.075,1861.35,Consumer
+ORD-100991,2024-04-30,South,Apparel,Running Shoes,395.12,4,93.58,0.0,154.17,Consumer
+ORD-100490,2024-05-01,North,Office Supplies,Pens Set,518.89,8,68.55,0.104,260.51,Corporate
+ORD-100483,2024-05-01,North,Furniture,Bookshelf,4558.13,6,719.39,0.0,1130.32,Corporate
+ORD-101101,2024-05-01,East,Furniture,Standing Desk,1598.92,5,302.82,0.0,487.91,Corporate
+ORD-100781,2024-05-01,North,Grocery,Olive Oil,157.77,6,24.9,0.0,40.0,Home Office
+ORD-101277,2024-05-02,East,Electronics,Tablet,8712.38,9,1223.35,0.251,-625.96,Home Office
+ORD-100030,2024-05-03,South,Apparel,Winter Jacket,1212.18,9,127.43,0.0,509.86,Corporate
+ORD-100909,2024-05-03,West,Electronics,Headphones,7844.11,10,742.15,0.0,3235.24,Home Office
+ORD-101144,2024-05-03,South,Furniture,Standing Desk,9548.06,11,821.24,0.0,2094.02,Consumer
+ORD-100901,2024-05-03,West,Electronics,Tablet,8502.23,8,1005.52,0.0,2021.5,Home Office
+ORD-101093,2024-05-04,North,Electronics,Headphones,9017.95,8,1411.98,0.245,-693.79,Consumer
+ORD-101200,2024-05-04,East,Office Supplies,Desk Organizer,902.56,9,94.84,0.0,114.54,Consumer
+ORD-100590,2024-05-05,South,Grocery,Snack Box,28.27,2,17.49,0.236,-0.35,Home Office
+ORD-100104,2024-05-06,North,Apparel,Backpack,1236.47,8,146.04,0.0,112.72,Corporate
+ORD-101274,2024-05-06,East,Electronics,Headphones,1266.89,1,1312.57,0.088,214.11,Consumer
+ORD-101021,2024-05-06,East,Apparel,Running Shoes,3653.5,11,313.83,0.0,1035.46,Consumer
+ORD-100057,2024-05-06,South,Office Supplies,Paper Reams,742.69,5,140.35,0.0,207.55,Consumer
+ORD-100633,2024-05-07,West,Furniture,Bookshelf,3251.1,7,584.09,0.249,-622.39,Consumer
+ORD-100181,2024-05-07,West,Grocery,Olive Oil,138.22,5,33.09,0.211,21.9,Consumer
+ORD-101459,2024-05-07,West,Furniture,Bookshelf,5490.66,8,648.22,0.0,1686.25,Home Office
+ORD-100911,2024-05-07,West,Apparel,Winter Jacket,1684.33,8,198.85,0.0,691.86,Consumer
+ORD-100929,2024-05-07,East,Apparel,Running Shoes,568.74,2,312.3,0.14,18.29,Home Office
+ORD-101070,2024-05-07,North,Apparel,Running Shoes,1845.95,8,217.93,0.0,457.73,Consumer
+ORD-100467,2024-05-07,West,Grocery,Olive Oil,139.92,3,44.95,0.02,25.97,Consumer
+ORD-100396,2024-05-08,East,Apparel,T-Shirt Pack,816.47,3,256.93,0.0,136.27,Consumer
+ORD-100735,2024-05-08,West,Office Supplies,Whiteboard,745.73,3,234.67,0.0,211.98,Home Office
+ORD-100905,2024-05-08,North,Office Supplies,Paper Reams,2092.78,10,197.57,0.0,373.04,Corporate
+ORD-101138,2024-05-10,West,Electronics,Smartphone,3655.75,3,1315.11,0.126,588.81,Corporate
+ORD-101081,2024-05-10,West,Grocery,Tea Assortment,104.31,2,50.82,0.032,17.38,Consumer
+ORD-100915,2024-05-11,North,Grocery,Tea Assortment,170.2,3,53.49,0.0,45.68,Consumer
+ORD-100746,2024-05-11,North,Furniture,Desk Chair,6485.55,10,611.47,0.0,3740.62,Consumer
+ORD-100123,2024-05-11,North,Furniture,Standing Desk,1600.65,4,377.28,0.0,288.02,Consumer
+ORD-101432,2024-05-11,East,Electronics,Laptop,12619.88,9,1322.03,0.0,4197.06,Home Office
+ORD-100927,2024-05-11,East,Apparel,T-Shirt Pack,2487.86,8,293.2,0.0,573.88,Home Office
+ORD-100743,2024-05-12,North,Electronics,Smartphone,142.42,1,134.22,0.0,29.76,Corporate
+ORD-100884,2024-05-12,North,Electronics,Smartphone,1442.19,1,1694.68,0.198,417.4,Home Office
+ORD-100423,2024-05-12,South,Electronics,Laptop,12705.61,9,1435.2,0.073,1761.96,Consumer
+ORD-100968,2024-05-12,East,Office Supplies,Whiteboard,1089.28,7,146.65,0.0,244.51,Consumer
+ORD-101423,2024-05-12,East,Furniture,Desk Chair,5974.66,11,511.87,0.0,934.52,Consumer
+ORD-100383,2024-05-12,East,Furniture,Conference Table,3900.7,5,735.21,0.0,477.17,Corporate
+ORD-101366,2024-05-12,South,Electronics,Headphones,1203.15,3,404.66,0.066,283.47,Consumer
+ORD-101089,2024-05-12,South,Furniture,Conference Table,3314.56,11,365.47,0.223,-322.98,Consumer
+ORD-100039,2024-05-12,South,Office Supplies,Pens Set,82.39,1,106.8,0.273,7.86,Corporate
+ORD-101352,2024-05-13,West,Electronics,Headphones,14615.33,8,1720.95,0.0,1646.09,Corporate
+ORD-100502,2024-05-14,West,Grocery,Snack Box,344.29,9,36.02,0.0,111.85,Consumer
+ORD-100816,2024-05-14,North,Grocery,Coffee Beans,41.58,1,39.15,0.0,11.69,Consumer
+ORD-101336,2024-05-14,East,Electronics,Monitor,9870.36,10,1199.2,0.225,-910.81,Consumer
+ORD-100978,2024-05-15,South,Office Supplies,Paper Reams,1213.54,6,190.36,0.0,432.11,Consumer
+ORD-100867,2024-05-15,South,Apparel,T-Shirt Pack,60.01,2,28.24,0.0,23.9,Consumer
+ORD-100454,2024-05-15,West,Electronics,Laptop,6593.13,5,1241.06,0.0,2941.15,Home Office
+ORD-100109,2024-05-15,South,Grocery,Coffee Beans,265.75,8,37.22,0.16,85.43,Home Office
+ORD-100095,2024-05-16,East,Office Supplies,Paper Reams,100.88,1,94.9,0.0,31.64,Consumer
+ORD-101401,2024-05-18,West,Electronics,Smartphone,583.03,1,548.02,0.0,34.66,Corporate
+ORD-100408,2024-05-19,West,Electronics,Tablet,1288.38,1,1210.48,0.0,284.91,Corporate
+ORD-101288,2024-05-19,West,Furniture,Bookshelf,5552.28,9,579.62,0.0,939.67,Home Office
+ORD-100542,2024-05-20,East,Apparel,Winter Jacket,703.76,3,296.51,0.257,-78.86,Home Office
+ORD-101246,2024-05-20,North,Office Supplies,Pens Set,1990.56,10,211.95,0.118,189.59,Home Office
+ORD-100455,2024-05-20,West,Electronics,Headphones,4390.8,3,1374.51,0.0,567.67,Corporate
+ORD-101004,2024-05-21,North,Office Supplies,Pens Set,2513.76,11,214.52,0.0,577.9,Corporate
+ORD-100424,2024-05-21,North,Office Supplies,Paper Reams,234.03,9,26.59,0.082,21.35,Consumer
+ORD-101487,2024-05-21,East,Furniture,Conference Table,396.84,5,97.01,0.232,-46.89,Consumer
+ORD-100259,2024-05-23,West,Office Supplies,Whiteboard,692.18,10,64.92,0.0,199.07,Consumer
+ORD-101394,2024-05-24,West,Apparel,T-Shirt Pack,2648.74,9,275.91,0.0,573.86,Consumer
+ORD-100445,2024-05-24,West,Office Supplies,Whiteboard,46.42,1,43.52,0.0,12.75,Consumer
+ORD-100984,2024-05-24,West,Electronics,Tablet,1895.38,3,652.32,0.092,599.59,Consumer
+ORD-100787,2024-05-25,West,Furniture,Standing Desk,1506.25,2,705.75,0.0,517.4,Consumer
+ORD-100866,2024-05-25,North,Apparel,T-Shirt Pack,1485.94,9,172.87,0.105,254.23,Corporate
+ORD-100725,2024-05-26,North,Electronics,Smartphone,1588.73,2,774.27,0.039,479.58,Corporate
+ORD-100267,2024-05-26,North,Electronics,Laptop,8303.3,7,1465.81,0.242,-1932.88,Corporate
+ORD-100531,2024-05-27,East,Office Supplies,Whiteboard,189.31,1,238.23,0.256,-8.21,Consumer
+ORD-101480,2024-05-27,East,Furniture,Bookshelf,5322.89,10,517.52,0.037,1732.86,Consumer
+ORD-100261,2024-05-27,North,Apparel,Running Shoes,366.62,6,57.21,0.0,85.55,Corporate
+ORD-100339,2024-05-27,East,Grocery,Olive Oil,279.98,6,43.69,0.0,81.16,Corporate
+ORD-100289,2024-05-27,North,Electronics,Headphones,11464.11,8,1616.51,0.17,1466.88,Consumer
+ORD-100688,2024-05-27,North,Apparel,Backpack,1582.26,8,185.18,0.0,470.94,Corporate
+ORD-100585,2024-05-28,North,Office Supplies,Desk Organizer,104.01,2,67.69,0.281,-12.46,Home Office
+ORD-100685,2024-05-28,North,Furniture,Bookshelf,413.45,1,386.94,0.0,108.99,Consumer
+ORD-100845,2024-05-28,North,Grocery,Olive Oil,72.61,9,7.55,0.0,17.46,Corporate
+ORD-101111,2024-05-28,West,Furniture,Bookshelf,4401.16,7,588.42,0.0,1224.07,Home Office
+ORD-100557,2024-05-28,South,Office Supplies,Whiteboard,133.16,3,41.54,0.0,45.91,Home Office
+ORD-100643,2024-05-28,West,Electronics,Laptop,4234.49,7,689.57,0.179,-410.72,Consumer
+ORD-100125,2024-05-28,East,Office Supplies,Pens Set,174.68,2,81.74,0.0,34.63,Consumer
+ORD-100091,2024-05-28,North,Office Supplies,Desk Organizer,149.68,4,35.02,0.0,50.27,Home Office
+ORD-101299,2024-05-29,West,Furniture,Desk Chair,1242.77,2,639.48,0.091,177.82,Corporate
+ORD-101137,2024-05-29,North,Furniture,Standing Desk,603.93,2,282.48,0.0,295.44,Home Office
+ORD-100252,2024-05-29,West,Furniture,Standing Desk,895.05,2,453.57,0.077,33.05,Consumer
+ORD-100719,2024-05-30,South,Grocery,Snack Box,275.47,9,28.62,0.0,95.79,Consumer
+ORD-100783,2024-05-31,East,Office Supplies,Whiteboard,260.33,11,22.12,0.0,53.79,Consumer
+ORD-100347,2024-05-31,East,Electronics,Laptop,7176.14,5,1341.45,0.0,1165.59,Corporate
+ORD-100374,2024-05-31,West,Electronics,Headphones,2388.79,4,597.62,0.066,538.88,Corporate
+ORD-100240,2024-06-01,North,Apparel,T-Shirt Pack,1414.43,7,210.22,0.102,-11.07,Home Office
+ORD-101130,2024-06-02,North,Grocery,Snack Box,153.56,5,28.68,0.0,48.3,Corporate
+ORD-100902,2024-06-02,East,Electronics,Laptop,11041.75,8,1288.92,0.0,2488.87,Corporate
+ORD-100724,2024-06-02,West,Electronics,Monitor,6195.63,8,832.25,0.131,915.51,Home Office
+ORD-100099,2024-06-02,North,Grocery,Coffee Beans,11.38,1,10.96,0.03,4.53,Consumer
+ORD-100859,2024-06-03,North,Office Supplies,Pens Set,291.91,8,34.06,0.0,91.25,Consumer
+ORD-100231,2024-06-03,North,Furniture,Conference Table,4768.73,9,506.24,0.023,1045.05,Consumer
+ORD-100373,2024-06-03,West,Furniture,Conference Table,4450.08,6,692.32,0.0,670.56,Consumer
+ORD-100487,2024-06-03,East,Electronics,Smartphone,13449.55,11,1227.22,0.07,3466.74,Corporate
+ORD-101215,2024-06-04,North,Office Supplies,Desk Organizer,240.94,10,23.84,0.057,45.75,Consumer
+ORD-100803,2024-06-04,South,Office Supplies,Pens Set,720.75,7,96.07,0.0,174.66,Consumer
+ORD-100320,2024-06-05,West,Grocery,Tea Assortment,155.94,9,16.16,0.0,61.4,Consumer
+ORD-101179,2024-06-05,South,Electronics,Laptop,1428.54,2,666.16,0.0,265.32,Home Office
+ORD-100750,2024-06-06,East,Electronics,Tablet,1749.52,11,148.27,0.0,542.11,Consumer
+ORD-100478,2024-06-06,East,Office Supplies,Desk Organizer,67.34,1,65.26,0.038,-0.16,Home Office
+ORD-101031,2024-06-06,East,Office Supplies,Pens Set,196.66,3,61.11,0.0,60.6,Consumer
+ORD-101437,2024-06-07,North,Office Supplies,Desk Organizer,488.28,5,91.0,0.0,74.64,Consumer
+ORD-101483,2024-06-07,East,Electronics,Monitor,12480.99,11,1411.61,0.251,-371.17,Consumer
+ORD-101141,2024-06-07,East,Apparel,T-Shirt Pack,1247.16,5,232.43,0.0,316.59,Corporate
+ORD-100733,2024-06-07,West,Furniture,Standing Desk,829.09,1,772.58,0.0,168.66,Corporate
+ORD-101203,2024-06-08,West,Office Supplies,Whiteboard,506.47,2,235.87,0.0,91.68,Corporate
+ORD-100650,2024-06-08,East,Furniture,Desk Chair,3542.96,7,654.77,0.28,-229.08,Consumer
+ORD-101406,2024-06-09,West,Grocery,Tea Assortment,495.71,8,57.69,0.0,85.31,Home Office
+ORD-101334,2024-06-09,East,Grocery,Tea Assortment,189.32,7,25.18,0.0,67.74,Home Office
+ORD-100411,2024-06-09,North,Office Supplies,Desk Organizer,975.79,6,183.98,0.177,-42.73,Consumer
+ORD-101261,2024-06-10,West,Furniture,Standing Desk,6870.16,8,799.2,0.0,2467.43,Home Office
+ORD-100035,2024-06-10,South,Electronics,Tablet,10967.3,8,1592.78,0.199,1662.11,Corporate
+ORD-100663,2024-06-10,South,Electronics,Smartphone,13301.05,8,1547.3,0.0,3067.6,Corporate
+ORD-101319,2024-06-11,West,Apparel,Running Shoes,493.38,4,114.74,0.0,114.84,Consumer
+ORD-100691,2024-06-11,East,Grocery,Snack Box,23.84,4,6.35,0.127,4.04,Corporate
+ORD-100031,2024-06-11,North,Grocery,Coffee Beans,186.99,6,28.99,0.0,77.34,Consumer
+ORD-100958,2024-06-12,North,Office Supplies,Pens Set,397.94,5,92.62,0.201,18.46,Consumer
+ORD-100223,2024-06-12,East,Grocery,Coffee Beans,97.08,9,11.32,0.114,41.02,Corporate
+ORD-101125,2024-06-12,South,Office Supplies,Desk Organizer,1270.25,6,239.48,0.178,143.18,Consumer
+ORD-100141,2024-06-12,North,Office Supplies,Paper Reams,381.66,8,44.36,0.0,30.94,Consumer
+ORD-101485,2024-06-14,North,Electronics,Tablet,17143.42,11,1447.89,0.0,5409.5,Consumer
+ORD-100969,2024-06-14,South,Electronics,Laptop,8545.71,9,1073.16,0.178,3608.81,Consumer
+ORD-101243,2024-06-14,West,Electronics,Smartphone,11284.83,7,1497.71,0.0,4638.6,Corporate
+ORD-100343,2024-06-14,West,Office Supplies,Pens Set,242.85,2,112.81,0.0,93.93,Consumer
+ORD-100561,2024-06-15,North,Electronics,Smartphone,6906.18,9,712.59,0.0,3142.55,Corporate
+ORD-101316,2024-06-15,South,Office Supplies,Desk Organizer,1479.47,9,209.69,0.272,201.71,Home Office
+ORD-100152,2024-06-15,North,Electronics,Tablet,4666.28,6,722.21,0.0,1218.71,Consumer
+ORD-101068,2024-06-15,East,Electronics,Headphones,5410.47,6,837.39,0.0,1396.55,Home Office
+ORD-101330,2024-06-15,North,Apparel,T-Shirt Pack,428.16,5,79.52,0.0,181.47,Consumer
+ORD-100965,2024-06-16,East,Office Supplies,Desk Organizer,1647.69,11,139.04,0.0,573.23,Consumer
+ORD-100297,2024-06-16,South,Apparel,T-Shirt Pack,911.54,4,211.53,0.0,367.35,Consumer
+ORD-101378,2024-06-18,East,Office Supplies,Whiteboard,575.73,5,106.79,0.0,139.39,Home Office
+ORD-100589,2024-06-19,South,Electronics,Headphones,7422.64,7,983.01,0.0,2085.31,Consumer
+ORD-101085,2024-06-19,South,Apparel,Running Shoes,2651.56,10,245.81,0.0,991.92,Home Office
+ORD-100461,2024-06-19,South,Electronics,Laptop,10137.81,8,1361.26,0.137,3874.63,Corporate
+ORD-100606,2024-06-19,East,Apparel,T-Shirt Pack,2408.79,8,279.13,0.0,356.15,Consumer
+ORD-100063,2024-06-20,West,Apparel,Winter Jacket,142.97,1,137.43,0.036,37.93,Home Office
+ORD-100935,2024-06-20,West,Electronics,Tablet,14108.38,10,1307.34,0.0,3668.95,Consumer
+ORD-100990,2024-06-20,West,Office Supplies,Desk Organizer,58.23,2,37.68,0.284,-17.54,Home Office
+ORD-100945,2024-06-20,East,Electronics,Laptop,8726.44,6,1420.14,0.051,977.43,Home Office
+ORD-101285,2024-06-21,East,Grocery,Snack Box,237.82,4,55.07,0.0,41.47,Consumer
+ORD-101428,2024-06-21,South,Apparel,Backpack,640.68,3,197.81,0.0,290.76,Consumer
+ORD-100706,2024-06-21,East,Apparel,Winter Jacket,782.27,11,65.87,0.0,144.21,Consumer
+ORD-100573,2024-06-21,West,Apparel,Winter Jacket,1726.98,8,199.95,0.0,433.66,Consumer
+ORD-100019,2024-06-22,North,Office Supplies,Paper Reams,1648.85,7,228.12,0.044,224.73,Consumer
+ORD-100756,2024-06-22,West,Furniture,Desk Chair,683.79,1,774.89,0.183,73.63,Consumer
+ORD-100856,2024-06-22,South,Apparel,Winter Jacket,244.34,3,86.18,0.125,23.51,Home Office
+ORD-101055,2024-06-22,East,Office Supplies,Desk Organizer,941.17,9,96.82,0.0,143.93,Home Office
+ORD-100211,2024-06-22,South,Office Supplies,Whiteboard,2162.35,11,182.0,0.0,495.95,Corporate
+ORD-100229,2024-06-23,South,Electronics,Tablet,4585.34,5,848.7,0.0,775.14,Consumer
+ORD-101048,2024-06-23,South,Apparel,Winter Jacket,921.44,5,170.55,0.0,395.77,Consumer
+ORD-101290,2024-06-23,West,Furniture,Bookshelf,3462.01,8,400.49,0.0,1740.51,Consumer
+ORD-100520,2024-06-23,East,Apparel,Winter Jacket,2634.11,10,310.54,0.215,300.34,Corporate
+ORD-100780,2024-06-23,South,Electronics,Laptop,644.24,1,759.51,0.215,10.09,Consumer
+ORD-100829,2024-06-23,South,Electronics,Smartphone,14163.41,10,1371.08,0.044,1392.46,Corporate
+ORD-101313,2024-06-24,North,Electronics,Monitor,12521.01,10,1158.26,0.0,2859.02,Home Office
+ORD-100265,2024-06-25,North,Electronics,Monitor,16529.9,10,1528.45,0.0,5283.72,Consumer
+ORD-101466,2024-06-25,South,Furniture,Bookshelf,839.55,4,265.13,0.268,-147.57,Consumer
+ORD-101050,2024-06-25,East,Office Supplies,Pens Set,2290.06,9,235.28,0.0,711.72,Home Office
+ORD-101372,2024-06-26,North,Furniture,Desk Chair,6504.35,11,546.52,0.0,2005.43,Corporate
+ORD-100197,2024-06-27,West,Apparel,T-Shirt Pack,326.67,5,60.36,0.0,113.09,Consumer
+ORD-101266,2024-06-27,South,Electronics,Monitor,2137.45,3,658.24,0.0,580.16,Consumer
+ORD-100255,2024-06-27,East,Apparel,T-Shirt Pack,2994.11,10,295.53,0.064,483.57,Home Office
+ORD-100370,2024-06-27,South,Apparel,Winter Jacket,2457.15,8,283.76,0.0,107.0,Home Office
+ORD-101289,2024-06-27,South,Office Supplies,Paper Reams,289.59,7,51.44,0.257,34.2,Corporate
+ORD-101339,2024-06-28,North,Furniture,Standing Desk,3815.53,5,864.67,0.185,383.73,Home Office
+ORD-100971,2024-06-28,West,Electronics,Tablet,2131.58,3,727.44,0.098,230.42,Consumer
+ORD-100669,2024-06-28,East,Furniture,Bookshelf,6177.4,7,814.95,0.0,1863.2,Corporate
+ORD-101414,2024-06-29,South,Electronics,Laptop,7946.26,8,1225.77,0.252,333.57,Consumer
+ORD-100451,2024-06-30,North,Grocery,Coffee Beans,104.21,5,19.23,0.0,35.08,Corporate
+ORD-101436,2024-06-30,South,Electronics,Smartphone,586.1,2,270.39,0.0,176.07,Home Office
+ORD-100202,2024-07-01,South,Office Supplies,Pens Set,224.45,2,137.64,0.248,-21.68,Home Office
+ORD-101000,2024-07-01,North,Electronics,Smartphone,14559.03,11,1368.49,0.108,1924.45,Corporate
+ORD-100366,2024-07-02,West,Apparel,Winter Jacket,956.33,6,146.94,0.0,342.91,Corporate
+ORD-100767,2024-07-02,East,Electronics,Laptop,7978.26,8,919.39,0.0,2656.19,Consumer
+ORD-100335,2024-07-02,North,Office Supplies,Whiteboard,520.34,5,95.94,0.0,158.32,Consumer
+ORD-100273,2024-07-02,West,Office Supplies,Paper Reams,91.05,6,13.99,0.0,27.96,Corporate
+ORD-101278,2024-07-02,North,Apparel,Backpack,875.2,4,201.71,0.0,150.03,Consumer
+ORD-101226,2024-07-02,West,Furniture,Bookshelf,224.3,2,103.39,0.0,49.9,Corporate
+ORD-100812,2024-07-02,South,Grocery,Snack Box,120.78,5,22.27,0.0,18.13,Corporate
+ORD-101368,2024-07-03,West,Electronics,Laptop,10777.45,6,1655.24,0.0,3517.93,Consumer
+ORD-100405,2024-07-03,South,Apparel,T-Shirt Pack,1585.82,7,235.89,0.115,297.07,Home Office
+ORD-100851,2024-07-03,West,Electronics,Tablet,2419.43,3,743.17,0.0,722.81,Consumer
+ORD-100364,2024-07-03,East,Office Supplies,Whiteboard,1556.01,7,209.66,0.023,603.66,Consumer
+ORD-100982,2024-07-04,North,Apparel,Running Shoes,964.38,9,98.7,0.0,308.96,Corporate
+ORD-100465,2024-07-04,North,Office Supplies,Pens Set,737.77,4,206.43,0.177,167.97,Corporate
+ORD-100930,2024-07-04,West,Electronics,Headphones,1141.41,2,525.68,0.0,321.08,Corporate
+ORD-101143,2024-07-04,West,Apparel,Backpack,243.29,6,43.94,0.15,34.67,Consumer
+ORD-101185,2024-07-04,East,Apparel,Winter Jacket,448.97,3,137.85,0.0,69.0,Home Office
+ORD-100438,2024-07-05,North,Apparel,T-Shirt Pack,1637.77,6,275.57,0.088,450.17,Consumer
+ORD-100433,2024-07-05,West,Apparel,Backpack,1919.68,6,294.58,0.0,889.81,Consumer
+ORD-100108,2024-07-05,South,Electronics,Laptop,5609.03,7,737.76,0.0,2349.95,Consumer
+ORD-101442,2024-07-05,West,Electronics,Smartphone,15763.52,11,1319.43,0.0,4077.87,Home Office
+ORD-101395,2024-07-05,North,Electronics,Monitor,5307.96,3,1629.04,0.0,1210.39,Consumer
+ORD-100371,2024-07-06,South,Electronics,Laptop,2245.95,10,206.7,0.0,463.08,Consumer
+ORD-100419,2024-07-06,West,Grocery,Coffee Beans,368.39,8,42.38,0.0,149.91,Home Office
+ORD-100476,2024-07-06,South,Furniture,Bookshelf,2502.06,3,767.57,0.0,365.49,Home Office
+ORD-100288,2024-07-07,West,Office Supplies,Paper Reams,698.52,9,85.61,0.166,134.22,Consumer
+ORD-100740,2024-07-07,South,Electronics,Monitor,12235.69,10,1125.6,0.0,5647.83,Consumer
+ORD-101220,2024-07-07,East,Electronics,Headphones,3646.89,7,479.27,0.0,613.0,Consumer
+ORD-101157,2024-07-07,East,Electronics,Headphones,20053.32,11,1723.6,0.027,4964.97,Consumer
+ORD-100576,2024-07-08,West,Grocery,Olive Oil,246.04,8,28.28,0.0,85.72,Home Office
+ORD-100997,2024-07-09,North,Electronics,Tablet,2537.77,3,777.53,0.0,803.62,Consumer
+ORD-100766,2024-07-10,East,Electronics,Laptop,14868.8,9,1517.87,0.0,4004.05,Corporate
+ORD-101310,2024-07-10,North,Furniture,Standing Desk,1813.49,4,416.54,0.0,587.72,Corporate
+ORD-100089,2024-07-10,North,Office Supplies,Whiteboard,1349.93,7,177.18,0.0,433.6,Home Office
+ORD-100987,2024-07-10,West,Electronics,Tablet,2303.44,10,211.63,0.0,605.08,Consumer
+ORD-101456,2024-07-11,North,Electronics,Tablet,1468.21,1,1348.36,0.0,185.3,Consumer
+ORD-100640,2024-07-12,West,Apparel,Running Shoes,193.73,8,22.23,0.0,10.85,Consumer
+ORD-101135,2024-07-12,South,Furniture,Desk Chair,3642.74,5,668.79,0.0,899.9,Consumer
+ORD-100917,2024-07-13,East,Electronics,Laptop,2580.14,2,1217.85,0.028,549.85,Corporate
+ORD-101166,2024-07-13,West,Apparel,Winter Jacket,2039.87,8,233.97,0.0,882.55,Consumer
+ORD-101268,2024-07-13,West,Office Supplies,Pens Set,2030.83,9,219.8,0.058,538.94,Corporate
+ORD-100858,2024-07-14,West,Furniture,Standing Desk,873.54,3,267.07,0.0,93.24,Corporate
+ORD-101187,2024-07-15,East,Grocery,Snack Box,258.2,11,21.52,0.0,55.4,Consumer
+ORD-100873,2024-07-15,North,Furniture,Desk Chair,1029.5,3,384.62,0.182,98.02,Consumer
+ORD-100759,2024-07-15,South,Furniture,Standing Desk,27560.86,11,291.72,0.239,40.52,Consumer
+ORD-100505,2024-07-15,West,Apparel,Running Shoes,267.38,10,27.42,0.106,71.89,Corporate
+ORD-100147,2024-07-15,West,Office Supplies,Paper Reams,365.27,4,83.72,0.0,41.85,Corporate
+ORD-100079,2024-07-16,West,Apparel,T-Shirt Pack,903.94,3,276.13,0.0,481.24,Consumer
+ORD-100208,2024-07-16,West,Electronics,Monitor,942.47,5,172.74,0.0,196.56,Consumer
+ORD-100486,2024-07-16,North,Furniture,Conference Table,2631.63,8,301.46,0.0,661.91,Corporate
+ORD-101333,2024-07-16,West,Grocery,Tea Assortment,353.55,8,40.5,0.0,99.53,Consumer
+ORD-100260,2024-07-16,South,Electronics,Smartphone,8173.39,6,1606.66,0.223,-653.92,Consumer
+ORD-100206,2024-07-17,North,Electronics,Monitor,4284.19,5,784.89,0.0,911.31,Consumer
+ORD-101072,2024-07-17,East,Furniture,Conference Table,3140.93,9,344.12,0.071,226.7,Consumer
+ORD-100118,2024-07-17,West,Furniture,Conference Table,2539.0,3,830.94,0.067,506.98,Consumer
+ORD-100702,2024-07-18,West,Electronics,Headphones,11705.17,8,1765.11,0.241,780.59,Corporate
+ORD-101408,2024-07-19,West,Apparel,T-Shirt Pack,2127.17,10,194.69,0.0,484.75,Home Office
+ORD-100933,2024-07-19,South,Apparel,Backpack,1491.72,6,227.55,0.0,465.6,Consumer
+ORD-100407,2024-07-20,North,Apparel,Running Shoes,687.93,8,78.67,0.0,230.81,Consumer
+ORD-101042,2024-07-20,South,Office Supplies,Paper Reams,212.63,7,27.79,0.0,78.74,Consumer
+ORD-100832,2024-07-20,West,Furniture,Conference Table,2225.01,8,304.0,0.163,176.03,Consumer
+ORD-100646,2024-07-21,North,Electronics,Smartphone,1271.31,5,240.95,0.035,442.27,Consumer
+ORD-101433,2024-07-21,West,Electronics,Monitor,2788.0,10,345.47,0.262,-93.25,Consumer
+ORD-101140,2024-07-22,East,Furniture,Bookshelf,489.18,1,447.16,0.0,143.01,Consumer
+ORD-100470,2024-07-24,South,Furniture,Standing Desk,2820.39,6,429.32,0.0,478.58,Consumer
+ORD-100390,2024-07-25,North,Office Supplies,Pens Set,170.12,4,39.7,0.022,74.72,Consumer
+ORD-100882,2024-07-25,North,Grocery,Coffee Beans,253.06,9,25.67,0.0,59.42,Corporate
+ORD-100016,2024-07-26,North,Office Supplies,Whiteboard,436.81,9,44.29,0.0,76.12,Home Office
+ORD-101363,2024-07-26,North,Electronics,Smartphone,12765.19,9,1503.27,0.139,-255.43,Home Office
+ORD-101136,2024-07-27,South,Furniture,Standing Desk,2173.85,10,198.29,0.0,630.3,Corporate
+ORD-100626,2024-07-28,South,Apparel,Winter Jacket,1617.99,7,210.75,0.0,473.53,Home Office
+ORD-100825,2024-07-28,West,Electronics,Headphones,4583.42,5,1057.99,0.21,279.22,Corporate
+ORD-100757,2024-07-28,West,Grocery,Coffee Beans,644.84,11,53.45,0.0,61.1,Consumer
+ORD-100841,2024-07-29,North,Apparel,T-Shirt Pack,2783.7,8,317.13,0.0,937.78,Corporate
+ORD-100336,2024-07-30,North,Electronics,Headphones,3610.75,5,838.07,0.215,414.32,Corporate
+ORD-100777,2024-07-31,North,Electronics,Laptop,9141.34,8,1040.54,0.0,2408.0,Consumer
+ORD-101474,2024-08-01,East,Office Supplies,Pens Set,430.04,4,97.86,0.0,258.94,Consumer
+ORD-100689,2024-08-01,West,Office Supplies,Desk Organizer,259.95,2,118.31,0.0,46.35,Consumer
+ORD-100496,2024-08-01,South,Furniture,Desk Chair,510.33,1,464.52,0.0,58.68,Corporate
+ORD-100011,2024-08-02,North,Grocery,Tea Assortment,412.92,9,43.08,0.031,107.77,Home Office
+ORD-100568,2024-08-02,North,Furniture,Standing Desk,2032.47,3,616.42,0.0,459.11,Home Office
+ORD-101087,2024-08-02,North,Apparel,Running Shoes,645.13,6,97.83,0.0,289.55,Corporate
+ORD-100543,2024-08-02,West,Grocery,Coffee Beans,71.51,2,32.53,0.0,31.46,Consumer
+ORD-100116,2024-08-02,North,Apparel,Backpack,1002.4,7,132.95,0.02,360.93,Consumer
+ORD-100199,2024-08-02,East,Furniture,Desk Chair,7240.37,7,941.1,0.0,1356.42,Home Office
+ORD-100880,2024-08-03,West,Furniture,Standing Desk,1521.88,11,134.72,0.066,271.5,Corporate
+ORD-101152,2024-08-03,West,Electronics,Headphones,17800.23,9,1798.76,0.0,5240.78,Consumer
+ORD-100734,2024-08-03,East,Electronics,Laptop,3135.0,10,285.12,0.0,506.88,Consumer
+ORD-100389,2024-08-03,South,Apparel,Backpack,244.02,3,76.5,0.033,38.46,Consumer
+ORD-100393,2024-08-04,North,Office Supplies,Whiteboard,161.23,4,38.94,0.059,56.01,Consumer
+ORD-100674,2024-08-05,South,Office Supplies,Paper Reams,549.58,3,166.47,0.0,290.08,Corporate
+ORD-100651,2024-08-05,North,Grocery,Coffee Beans,196.07,3,59.39,0.0,64.88,Consumer
+ORD-101019,2024-08-05,North,Furniture,Desk Chair,4324.83,7,561.43,0.0,883.06,Corporate
+ORD-100462,2024-08-05,East,Grocery,Coffee Beans,481.56,10,43.76,0.0,84.95,Consumer
+ORD-100188,2024-08-05,East,Apparel,Backpack,676.72,3,204.98,0.0,240.65,Consumer
+ORD-101467,2024-08-06,South,Electronics,Smartphone,2850.54,7,422.73,0.125,40.66,Corporate
+ORD-101429,2024-08-06,East,Furniture,Bookshelf,2933.46,3,888.18,0.0,807.78,Consumer
+ORD-100516,2024-08-06,North,Furniture,Conference Table,3155.39,4,716.53,0.0,868.83,Corporate
+ORD-101238,2024-08-07,East,Electronics,Smartphone,4096.55,4,929.86,0.0,950.23,Corporate
+ORD-101465,2024-08-07,East,Office Supplies,Whiteboard,106.74,11,8.81,0.0,17.93,Consumer
+ORD-100312,2024-08-07,East,Electronics,Headphones,5681.22,3,1719.41,0.0,2512.77,Corporate
+ORD-100618,2024-08-07,North,Electronics,Smartphone,6438.18,11,531.41,0.0,967.29,Consumer
+ORD-100354,2024-08-08,West,Furniture,Standing Desk,2453.03,7,318.04,0.0,716.25,Consumer
+ORD-100613,2024-08-08,East,Grocery,Olive Oil,92.82,9,9.36,0.0,13.45,Home Office
+ORD-100331,2024-08-08,West,Electronics,Headphones,9524.35,5,1728.79,0.0,608.71,Consumer
+ORD-100324,2024-08-08,East,Apparel,T-Shirt Pack,2173.51,10,197.26,0.0,654.56,Corporate
+ORD-100839,2024-08-08,North,Office Supplies,Whiteboard,1189.01,5,215.82,0.0,380.66,Consumer
+ORD-100950,2024-08-09,East,Office Supplies,Whiteboard,987.11,8,146.13,0.234,187.69,Consumer
+ORD-100048,2024-08-09,South,Office Supplies,Pens Set,296.47,4,69.75,0.036,28.8,Home Office
+ORD-100459,2024-08-09,East,Office Supplies,Whiteboard,382.26,2,173.39,0.0,15.51,Corporate
+ORD-101181,2024-08-10,West,Electronics,Smartphone,2856.48,4,853.18,0.241,281.89,Consumer
+ORD-100013,2024-08-10,East,Apparel,T-Shirt Pack,2498.41,11,205.96,0.0,780.75,Corporate
+ORD-100951,2024-08-10,East,Electronics,Tablet,19239.94,10,1744.68,0.0,7120.99,Home Office
+ORD-100649,2024-08-10,North,Electronics,Smartphone,5890.06,11,643.12,0.245,421.87,Home Office
+ORD-101162,2024-08-11,South,Apparel,Backpack,1328.3,8,189.07,0.204,-54.23,Home Office
+ORD-101171,2024-08-11,South,Apparel,Running Shoes,1594.4,10,181.33,0.203,-170.09,Corporate
+ORD-101142,2024-08-11,East,Apparel,Winter Jacket,822.37,3,248.47,0.0,187.3,Consumer
+ORD-100084,2024-08-11,East,Electronics,Headphones,689.79,3,280.88,0.258,103.42,Corporate
+ORD-100655,2024-08-11,West,Furniture,Bookshelf,831.66,2,407.92,0.076,65.73,Consumer
+ORD-100043,2024-08-11,North,Furniture,Conference Table,4041.59,4,947.1,0.033,1385.98,Consumer
+ORD-100513,2024-08-12,South,Electronics,Laptop,3054.04,2,1383.54,0.0,819.29,Home Office
+ORD-101327,2024-08-12,North,Office Supplies,Pens Set,355.85,3,107.47,0.0,97.99,Corporate
+ORD-101175,2024-08-12,East,Apparel,T-Shirt Pack,36.97,2,16.75,0.0,5.46,Corporate
+ORD-101165,2024-08-13,West,Apparel,Winter Jacket,157.13,1,142.31,0.0,8.99,Consumer
+ORD-100309,2024-08-13,North,Electronics,Headphones,4345.44,3,1311.83,0.0,499.24,Consumer
+ORD-101494,2024-08-13,East,Furniture,Conference Table,8566.92,9,862.08,0.0,2720.45,Consumer
+ORD-100440,2024-08-13,North,Apparel,Winter Jacket,916.13,5,165.94,0.0,332.94,Consumer
+ORD-101312,2024-08-14,East,Office Supplies,Desk Organizer,307.74,3,101.38,0.084,141.57,Consumer
+ORD-100392,2024-08-14,East,Office Supplies,Paper Reams,322.38,4,81.98,0.11,73.67,Home Office
+ORD-100074,2024-08-14,North,Electronics,Monitor,6549.44,4,1482.27,0.0,2072.42,Home Office
+ORD-101103,2024-08-15,East,Apparel,T-Shirt Pack,338.16,9,34.0,0.0,72.19,Consumer
+ORD-101088,2024-08-15,South,Office Supplies,Whiteboard,276.38,5,50.02,0.0,83.62,Consumer
+ORD-100434,2024-08-15,East,Electronics,Headphones,3615.38,3,1126.57,0.032,316.24,Consumer
+ORD-100376,2024-08-15,North,Grocery,Coffee Beans,171.71,8,19.88,0.023,39.6,Consumer
+ORD-101222,2024-08-16,South,Grocery,Snack Box,210.41,8,32.86,0.276,-29.53,Consumer
+ORD-100683,2024-08-17,North,Furniture,Conference Table,2645.49,3,797.3,0.0,1315.56,Consumer
+ORD-100384,2024-08-17,South,Furniture,Desk Chair,1262.0,6,230.79,0.176,273.62,Consumer
+ORD-100174,2024-08-17,West,Electronics,Monitor,6160.17,7,834.91,0.047,2311.51,Corporate
+ORD-101448,2024-08-19,West,Office Supplies,Paper Reams,364.94,3,117.66,0.066,54.17,Corporate
+ORD-100629,2024-08-19,North,Apparel,Backpack,1770.4,7,228.48,0.0,404.08,Consumer
+ORD-100415,2024-08-19,North,Electronics,Monitor,2554.19,6,384.57,0.0,856.83,Consumer
+ORD-101054,2024-08-19,South,Electronics,Monitor,3018.31,10,330.11,0.174,403.32,Home Office
+ORD-100687,2024-08-19,East,Grocery,Coffee Beans,300.13,7,53.5,0.276,-17.64,Home Office
+ORD-100696,2024-08-19,North,Apparel,Running Shoes,491.79,5,119.59,0.257,-50.3,Consumer
+ORD-100222,2024-08-20,East,Office Supplies,Paper Reams,154.03,1,139.09,0.0,54.9,Corporate
+ORD-100388,2024-08-20,West,Electronics,Smartphone,9745.68,5,1760.09,0.0,3798.53,Consumer
+ORD-100553,2024-08-20,West,Grocery,Olive Oil,20.53,3,7.48,0.174,5.09,Corporate
+ORD-100033,2024-08-20,East,Furniture,Standing Desk,1084.71,10,97.95,0.0,190.16,Consumer
+ORD-101245,2024-08-21,West,Electronics,Laptop,11790.49,8,1778.49,0.252,-1017.1,Consumer
+ORD-100604,2024-08-21,East,Grocery,Olive Oil,495.55,10,44.73,0.0,88.36,Home Office
+ORD-100912,2024-08-21,South,Grocery,Tea Assortment,227.11,5,41.0,0.0,66.36,Home Office
+ORD-100193,2024-08-22,East,Apparel,T-Shirt Pack,723.61,4,163.22,0.0,231.26,Corporate
+ORD-101053,2024-08-22,West,Electronics,Monitor,4662.43,5,841.34,0.0,1482.88,Consumer
+ORD-100741,2024-08-22,North,Electronics,Headphones,689.41,1,728.37,0.146,37.51,Consumer
+ORD-101126,2024-08-22,East,Office Supplies,Desk Organizer,632.85,7,81.57,0.0,118.55,Corporate
+ORD-100286,2024-08-22,South,Electronics,Laptop,5473.93,7,967.84,0.271,645.03,Corporate
+ORD-101446,2024-08-22,South,Grocery,Olive Oil,87.8,2,39.61,0.0,17.44,Consumer
+ORD-101164,2024-08-22,South,Electronics,Tablet,7471.41,4,1685.28,0.0,1656.99,Corporate
+ORD-100148,2024-08-23,West,Furniture,Standing Desk,974.67,1,879.03,0.0,239.85,Home Office
+ORD-100426,2024-08-23,South,Electronics,Monitor,1038.76,3,312.28,0.0,415.5,Consumer
+ORD-100617,2024-08-23,North,Furniture,Bookshelf,10012.81,11,820.94,0.0,2197.76,Consumer
+ORD-100601,2024-08-23,North,Apparel,Winter Jacket,139.73,3,49.89,0.158,35.51,Consumer
+ORD-101477,2024-08-24,East,Grocery,Tea Assortment,128.93,8,18.65,0.221,-7.16,Consumer
+ORD-100682,2024-08-24,West,Electronics,Monitor,5584.69,5,1117.56,0.099,1556.45,Consumer
+ORD-101039,2024-08-24,East,Electronics,Monitor,12120.72,7,1676.67,0.069,811.21,Home Office
+ORD-100416,2024-08-24,East,Electronics,Headphones,6799.03,7,875.62,0.0,1841.42,Corporate
+ORD-100328,2024-08-24,West,Office Supplies,Desk Organizer,675.61,6,101.51,0.0,62.04,Corporate
+ORD-100529,2024-08-24,East,Furniture,Desk Chair,836.13,7,152.74,0.295,-39.36,Consumer
+ORD-101253,2024-08-25,North,Office Supplies,Desk Organizer,588.99,5,149.72,0.291,-53.05,Corporate
+ORD-101011,2024-08-25,South,Office Supplies,Desk Organizer,1640.91,8,234.56,0.212,0.64,Consumer
+ORD-100428,2024-08-25,North,Electronics,Smartphone,3009.8,3,904.07,0.0,540.25,Home Office
+ORD-101451,2024-08-26,West,Office Supplies,Paper Reams,169.91,2,80.89,0.054,10.11,Home Office
+ORD-100737,2024-08-26,South,Furniture,Bookshelf,4656.95,7,599.25,0.0,1127.64,Corporate
+ORD-100785,2024-08-26,North,Furniture,Conference Table,1017.04,2,519.33,0.118,58.96,Home Office
+ORD-100403,2024-08-27,North,Electronics,Headphones,5905.74,6,1001.39,0.115,531.58,Home Office
+ORD-100493,2024-08-27,North,Furniture,Conference Table,1463.39,6,219.6,0.0,474.76,Corporate
+ORD-101393,2024-08-27,East,Electronics,Laptop,10290.76,7,1360.38,0.027,2831.43,Corporate
+ORD-100000,2024-08-28,East,Apparel,Running Shoes,171.02,1,153.92,0.0,27.76,Home Office
+ORD-101360,2024-08-28,South,Office Supplies,Paper Reams,1323.78,10,119.14,0.0,150.74,Consumer
+ORD-100594,2024-08-29,West,Electronics,Monitor,19999.33,10,1799.19,0.0,9806.17,Consumer
+ORD-100441,2024-08-29,South,Electronics,Monitor,5211.59,3,1650.29,0.053,46.38,Consumer
+ORD-100547,2024-08-29,East,Electronics,Monitor,12960.71,11,1059.98,0.0,3780.47,Home Office
+ORD-100263,2024-08-29,North,Electronics,Monitor,11590.96,8,1303.44,0.0,3984.9,Consumer
+ORD-100237,2024-08-29,North,Apparel,Backpack,1464.17,8,218.95,0.248,55.41,Consumer
+ORD-101431,2024-08-30,North,Office Supplies,Paper Reams,171.65,1,158.31,0.025,0.23,Home Office
+ORD-100642,2024-08-30,West,Electronics,Tablet,3629.33,7,466.24,0.0,860.99,Home Office
+ORD-100342,2024-08-30,North,Apparel,Backpack,946.25,3,283.64,0.0,82.56,Consumer
+ORD-101186,2024-08-31,North,Furniture,Bookshelf,2593.23,10,306.71,0.24,71.22,Consumer
+ORD-101421,2024-08-31,North,Office Supplies,Paper Reams,299.76,5,53.89,0.0,126.52,Consumer
+ORD-101376,2024-08-31,North,Office Supplies,Desk Organizer,155.13,6,26.38,0.119,35.1,Corporate
+ORD-101211,2024-08-31,North,Apparel,Backpack,263.04,1,255.06,0.073,55.02,Consumer
+ORD-100318,2024-08-31,South,Electronics,Headphones,5234.76,5,941.08,0.0,1114.68,Consumer
+ORD-101145,2024-09-01,West,Furniture,Bookshelf,2370.14,3,709.86,0.0,622.25,Consumer
+ORD-100304,2024-09-01,East,Apparel,T-Shirt Pack,1309.79,5,235.37,0.0,269.16,Corporate
+ORD-100375,2024-09-01,West,Electronics,Smartphone,3693.71,8,463.52,0.105,-9.54,Consumer
+ORD-100325,2024-09-02,North,Office Supplies,Pens Set,452.05,8,50.75,0.0,54.01,Home Office
+ORD-101317,2024-09-02,East,Electronics,Smartphone,5848.83,3,1751.0,0.0,777.91,Corporate
+ORD-100003,2024-09-02,South,Office Supplies,Paper Reams,443.82,9,44.29,0.0,42.83,Corporate
+ORD-100980,2024-09-02,East,Grocery,Coffee Beans,162.38,3,58.22,0.165,19.75,Consumer
+ORD-100484,2024-09-02,East,Electronics,Tablet,13688.88,7,1756.34,0.0,3557.62,Corporate
+ORD-100200,2024-09-02,West,Apparel,Winter Jacket,188.51,1,169.31,0.0,62.55,Corporate
+ORD-100818,2024-09-02,South,Office Supplies,Whiteboard,81.61,2,36.65,0.0,7.92,Corporate
+ORD-100580,2024-09-02,South,Office Supplies,Paper Reams,769.67,4,198.41,0.129,183.21,Corporate
+ORD-101407,2024-09-04,North,Electronics,Laptop,6232.26,7,1087.02,0.265,-1394.86,Consumer
+ORD-100010,2024-09-04,North,Furniture,Bookshelf,5782.17,7,741.26,0.0,2086.1,Consumer
+ORD-100616,2024-09-04,North,Apparel,Winter Jacket,475.18,4,140.64,0.242,-83.22,Consumer
+ORD-101489,2024-09-05,East,Furniture,Bookshelf,1212.07,11,98.84,0.0,461.85,Corporate
+ORD-100007,2024-09-05,South,Apparel,Backpack,1279.25,5,275.51,0.167,380.33,Consumer
+ORD-100098,2024-09-06,West,Electronics,Tablet,9298.52,8,1192.42,0.126,589.28,Consumer
+ORD-100422,2024-09-06,South,Electronics,Monitor,6941.1,5,1244.73,0.0,2236.79,Corporate
+ORD-100607,2024-09-06,West,Electronics,Laptop,3288.75,6,491.47,0.0,443.09,Consumer
+ORD-100299,2024-09-07,East,Office Supplies,Paper Reams,2070.01,8,231.91,0.0,934.71,Consumer
+ORD-100713,2024-09-07,South,Grocery,Coffee Beans,130.31,3,38.93,0.0,19.29,Corporate
+ORD-100953,2024-09-08,West,Electronics,Monitor,13190.07,10,1181.69,0.0,6673.09,Corporate
+ORD-100823,2024-09-08,North,Office Supplies,Paper Reams,35.16,2,15.75,0.0,11.21,Consumer
+ORD-101046,2024-09-09,West,Electronics,Tablet,1580.18,2,761.62,0.071,635.67,Consumer
+ORD-100554,2024-09-09,South,Electronics,Laptop,2170.13,5,388.68,0.0,924.46,Consumer
+ORD-100227,2024-09-09,West,Office Supplies,Whiteboard,448.29,5,80.29,0.0,219.97,Consumer
+ORD-100420,2024-09-10,South,Office Supplies,Desk Organizer,81.7,1,87.17,0.161,9.66,Home Office
+ORD-100381,2024-09-11,East,Grocery,Coffee Beans,58.9,1,52.7,0.0,11.84,Home Office
+ORD-100995,2024-09-11,East,Furniture,Conference Table,5427.01,6,809.33,0.0,1259.36,Consumer
+ORD-100894,2024-09-12,East,Apparel,T-Shirt Pack,55.68,1,62.1,0.198,17.69,Home Office
+ORD-101305,2024-09-12,North,Grocery,Coffee Beans,174.17,7,28.79,0.227,5.54,Consumer
+ORD-100644,2024-09-12,South,Office Supplies,Desk Organizer,1890.91,11,153.75,0.0,569.61,Consumer
+ORD-100285,2024-09-12,West,Furniture,Conference Table,1818.25,4,567.83,0.284,-162.36,Corporate
+ORD-100106,2024-09-12,West,Furniture,Bookshelf,7297.33,7,932.4,0.0,2244.98,Consumer
+ORD-100784,2024-09-12,North,Grocery,Snack Box,225.62,5,40.36,0.0,47.6,Corporate
+ORD-100608,2024-09-12,South,Apparel,Running Shoes,85.11,2,48.12,0.209,-9.29,Consumer
+ORD-101154,2024-09-13,South,Office Supplies,Desk Organizer,1969.24,9,195.62,0.0,734.12,Corporate
+ORD-100512,2024-09-13,North,Electronics,Laptop,3170.28,7,421.34,0.039,956.87,Home Office
+ORD-100849,2024-09-13,North,Grocery,Snack Box,641.47,10,57.35,0.0,74.59,Consumer
+ORD-100234,2024-09-14,West,Grocery,Olive Oil,154.89,6,23.07,0.0,6.82,Consumer
+ORD-100256,2024-09-14,North,Apparel,Running Shoes,2628.17,11,213.52,0.0,55.65,Consumer
+ORD-101267,2024-09-14,East,Grocery,Tea Assortment,434.72,10,38.85,0.0,93.09,Home Office
+ORD-100102,2024-09-14,East,Electronics,Laptop,12055.96,7,1539.15,0.0,2835.84,Home Office
+ORD-100400,2024-09-15,East,Furniture,Desk Chair,2296.13,11,220.15,0.153,153.85,Consumer
+ORD-100395,2024-09-15,North,Furniture,Standing Desk,8287.47,10,740.32,0.0,953.56,Home Office
+ORD-100595,2024-09-15,South,Electronics,Monitor,7908.43,10,706.46,0.0,2966.9,Home Office
+ORD-101449,2024-09-16,West,Electronics,Tablet,3015.37,3,941.77,0.047,506.34,Consumer
+ORD-100067,2024-09-16,North,Furniture,Standing Desk,309.98,1,276.79,0.0,91.65,Consumer
+ORD-100791,2024-09-16,East,Furniture,Desk Chair,2766.16,8,364.52,0.153,770.52,Consumer
+ORD-100524,2024-09-16,South,Electronics,Laptop,7007.94,9,695.29,0.0,2120.89,Corporate
+ORD-100507,2024-09-17,North,Apparel,T-Shirt Pack,283.27,10,29.23,0.135,37.71,Home Office
+ORD-100868,2024-09-18,South,Electronics,Tablet,4067.28,3,1209.6,0.0,1196.05,Corporate
+ORD-100855,2024-09-18,West,Furniture,Bookshelf,2091.08,5,373.13,0.0,823.1,Consumer
+ORD-101295,2024-09-18,East,Furniture,Conference Table,2376.19,3,935.99,0.245,-625.17,Consumer
+ORD-100925,2024-09-19,East,Electronics,Tablet,3623.85,8,403.98,0.0,1120.61,Corporate
+ORD-101322,2024-09-19,North,Electronics,Headphones,6122.59,7,780.04,0.0,1992.64,Corporate
+ORD-101035,2024-09-19,East,Office Supplies,Desk Organizer,1012.9,8,153.21,0.263,17.05,Consumer
+ORD-101153,2024-09-20,East,Electronics,Monitor,1224.93,1,1091.97,0.0,196.98,Consumer
+ORD-100552,2024-09-21,South,Electronics,Tablet,6949.76,5,1530.99,0.191,1325.72,Consumer
+ORD-101104,2024-09-21,North,Electronics,Monitor,7091.51,11,574.47,0.0,1587.83,Home Office
+ORD-100157,2024-09-21,West,Office Supplies,Pens Set,20.21,1,18.01,0.0,2.31,Consumer
+ORD-100986,2024-09-21,West,Furniture,Standing Desk,2693.51,4,600.04,0.0,490.17,Consumer
+ORD-101036,2024-09-21,West,Furniture,Bookshelf,760.15,4,169.34,0.0,291.33,Consumer
+ORD-100581,2024-09-22,North,Office Supplies,Whiteboard,1325.76,8,147.61,0.0,364.55,Corporate
+ORD-100087,2024-09-23,East,Furniture,Bookshelf,3039.4,11,290.11,0.152,1248.95,Consumer
+ORD-101440,2024-09-24,West,Electronics,Smartphone,19756.89,11,1598.49,0.0,4991.52,Consumer
+ORD-100183,2024-09-25,South,Furniture,Desk Chair,7359.2,10,654.69,0.0,2349.22,Consumer
+ORD-100801,2024-09-26,East,Furniture,Conference Table,2958.3,4,657.67,0.0,620.51,Consumer
+ORD-100414,2024-09-27,North,Electronics,Laptop,8700.48,8,1017.6,0.05,1688.59,Consumer
+ORD-100635,2024-09-27,East,Electronics,Laptop,4519.44,8,561.7,0.106,1367.48,Consumer
+ORD-100521,2024-09-27,North,Furniture,Desk Chair,2116.53,4,470.34,0.0,670.82,Home Office
+ORD-100068,2024-09-27,South,Electronics,Tablet,1772.9,3,605.19,0.132,419.15,Corporate
+ORD-100140,2024-09-27,East,Office Supplies,Pens Set,116.82,2,51.92,0.0,22.03,Consumer
+ORD-101271,2024-09-27,West,Furniture,Desk Chair,4944.21,5,878.97,0.0,1701.07,Consumer
+ORD-101332,2024-09-27,South,Office Supplies,Desk Organizer,860.6,9,91.79,0.074,327.11,Consumer
+ORD-101324,2024-09-27,West,Furniture,Bookshelf,1719.88,3,715.72,0.288,-275.14,Consumer
+ORD-101139,2024-09-28,North,Office Supplies,Pens Set,527.43,11,44.24,0.037,132.37,Corporate
+ORD-100069,2024-09-28,South,Furniture,Desk Chair,894.65,4,198.73,0.0,94.35,Consumer
+ORD-100588,2024-09-28,East,Electronics,Laptop,15791.87,10,1571.27,0.107,1962.01,Corporate
+ORD-100721,2024-09-29,South,Furniture,Desk Chair,3229.52,7,409.76,0.0,871.1,Corporate
+ORD-100523,2024-09-29,North,Office Supplies,Desk Organizer,729.98,11,58.94,0.0,158.45,Consumer
+ORD-101357,2024-09-29,South,Furniture,Conference Table,1370.7,6,202.9,0.0,409.9,Consumer
+ORD-100795,2024-09-30,North,Furniture,Desk Chair,472.06,1,563.3,0.256,-38.18,Corporate
+ORD-100173,2024-09-30,North,Grocery,Snack Box,61.73,2,27.4,0.0,10.51,Home Office
+ORD-101033,2024-09-30,North,Grocery,Olive Oil,92.8,9,10.06,0.09,26.12,Corporate
+ORD-100527,2024-09-30,South,Grocery,Olive Oil,20.27,4,4.5,0.0,3.52,Consumer
+ORD-100248,2024-09-30,South,Furniture,Desk Chair,7634.15,11,616.14,0.0,1225.23,Home Office
+ORD-100437,2024-09-30,East,Office Supplies,Desk Organizer,723.26,9,80.89,0.118,40.13,Consumer
+ORD-101239,2024-09-30,East,Electronics,Laptop,13896.12,8,1542.11,0.0,2334.34,Corporate
+ORD-101147,2024-09-30,West,Apparel,Running Shoes,1396.5,5,247.96,0.0,409.12,Corporate
+ORD-101118,2024-10-01,West,Electronics,Smartphone,4591.91,7,506.21,0.0,1291.23,Consumer
+ORD-101258,2024-10-01,East,Office Supplies,Whiteboard,2467.77,11,173.12,0.0,972.17,Home Office
+ORD-100625,2024-10-01,South,Furniture,Desk Chair,6893.77,8,871.52,0.237,630.79,Corporate
+ORD-101493,2024-10-02,East,Apparel,T-Shirt Pack,124.4,2,47.98,0.0,46.48,Consumer
+ORD-101217,2024-10-02,West,Office Supplies,Desk Organizer,1579.21,7,174.02,0.0,396.36,Consumer
+ORD-100954,2024-10-03,East,Grocery,Tea Assortment,317.07,6,43.86,0.071,66.4,Consumer
+ORD-100814,2024-10-03,South,Electronics,Monitor,11046.12,11,963.03,0.196,623.68,Consumer
+ORD-101131,2024-10-03,South,Office Supplies,Whiteboard,421.3,2,162.42,0.0,138.34,Corporate
+ORD-100239,2024-10-03,West,Electronics,Smartphone,13886.9,10,1070.74,0.0,4664.53,Consumer
+ORD-101058,2024-10-05,South,Office Supplies,Whiteboard,1706.06,10,143.49,0.084,458.57,Consumer
+ORD-100023,2024-10-05,West,Grocery,Snack Box,413.31,6,53.07,0.0,73.19,Corporate
+ORD-100114,2024-10-06,West,Electronics,Headphones,7376.0,7,811.46,0.0,2081.1,Consumer
+ORD-100621,2024-10-06,North,Office Supplies,Whiteboard,185.46,2,71.41,0.0,23.14,Consumer
+ORD-101172,2024-10-06,South,Electronics,Tablet,17602.38,10,1355.55,0.0,5211.69,Home Office
+ORD-101002,2024-10-07,West,Electronics,Monitor,1462.43,1,1125.75,0.0,211.88,Home Office
+ORD-100749,2024-10-07,South,Apparel,Running Shoes,1761.86,6,226.04,0.0,856.21,Consumer
+ORD-100712,2024-10-07,West,Apparel,Running Shoes,571.44,4,109.97,0.0,271.14,Home Office
+ORD-100914,2024-10-08,South,Grocery,Olive Oil,297.16,5,45.73,0.0,94.57,Consumer
+ORD-100744,2024-10-08,South,Office Supplies,Desk Organizer,429.01,11,30.01,0.0,115.92,Consumer
+ORD-100786,2024-10-09,West,Apparel,Running Shoes,1593.14,8,153.17,0.0,228.61,Home Office
+ORD-100492,2024-10-10,South,Office Supplies,Whiteboard,243.71,1,205.0,0.086,18.97,Home Office
+ORD-100090,2024-10-10,North,Electronics,Tablet,2447.67,10,231.47,0.187,571.68,Home Office
+ORD-101272,2024-10-10,West,Furniture,Standing Desk,363.15,4,98.31,0.29,-11.29,Home Office
+ORD-101067,2024-10-10,North,Office Supplies,Whiteboard,920.84,4,227.79,0.223,157.65,Corporate
+ORD-100397,2024-10-10,North,Electronics,Headphones,956.08,2,381.26,0.036,374.49,Consumer
+ORD-100878,2024-10-11,North,Office Supplies,Paper Reams,159.35,1,165.27,0.259,-3.78,Consumer
+ORD-101314,2024-10-11,North,Electronics,Laptop,5857.9,7,643.13,0.0,2768.73,Consumer
+ORD-100860,2024-10-12,West,Apparel,Backpack,952.71,9,81.32,0.0,182.47,Consumer
+ORD-101359,2024-10-12,South,Electronics,Laptop,7953.09,5,1221.92,0.0,1804.63,Corporate
+ORD-100742,2024-10-13,South,Apparel,Winter Jacket,342.54,11,33.49,0.286,-19.21,Home Office
+ORD-100503,2024-10-13,East,Office Supplies,Desk Organizer,8051.09,3,211.57,0.0,248.55,Corporate
+ORD-101375,2024-10-13,North,Electronics,Smartphone,2377.29,5,365.1,0.0,708.42,Consumer
+ORD-100889,2024-10-14,North,Office Supplies,Desk Organizer,1252.03,7,153.74,0.107,187.1,Consumer
+ORD-101023,2024-10-14,East,Office Supplies,Whiteboard,1250.58,8,119.99,0.0,318.42,Home Office
+ORD-100266,2024-10-15,West,Electronics,Tablet,2238.68,7,245.38,0.0,733.25,Consumer
+ORD-101044,2024-10-15,East,Electronics,Tablet,8498.72,4,1736.09,0.061,2644.76,Consumer
+ORD-100532,2024-10-17,South,Furniture,Bookshelf,9040.0,10,693.04,0.0,2084.44,Consumer
+ORD-100637,2024-10-18,West,Office Supplies,Paper Reams,2454.14,11,170.97,0.0,598.6,Consumer
+ORD-101108,2024-10-18,East,Grocery,Snack Box,261.19,9,22.24,0.0,75.92,Home Office
+ORD-100170,2024-10-19,South,Electronics,Smartphone,23434.38,11,1768.05,0.077,7685.48,Home Office
+ORD-100443,2024-10-20,North,Electronics,Laptop,16451.79,10,1485.51,0.152,1534.94,Consumer
+ORD-100042,2024-10-20,South,Office Supplies,Desk Organizer,1479.35,6,188.79,0.0,517.49,Corporate
+ORD-101399,2024-10-20,South,Furniture,Bookshelf,2935.86,3,749.33,0.0,1454.18,Corporate
+ORD-100511,2024-10-21,South,Apparel,Winter Jacket,558.39,10,60.28,0.291,-13.99,Corporate
+ORD-100280,2024-10-22,North,Electronics,Smartphone,1847.12,1,1413.19,0.0,691.41,Corporate
+ORD-101496,2024-10-23,East,Apparel,Running Shoes,912.67,6,116.33,0.0,231.01,Consumer
+ORD-101115,2024-10-23,South,Electronics,Tablet,7696.27,4,1625.92,0.095,1566.24,Consumer
+ORD-101113,2024-10-23,West,Grocery,Snack Box,304.71,7,33.29,0.0,37.37,Corporate
+ORD-100538,2024-10-23,East,Electronics,Monitor,11713.65,11,969.5,0.16,2102.9,Consumer
+ORD-100235,2024-10-23,East,Apparel,Backpack,396.46,8,37.9,0.0,214.13,Consumer
+ORD-101110,2024-10-23,West,Electronics,Smartphone,1969.53,1,1729.31,0.129,144.96,Consumer
+ORD-101362,2024-10-24,South,Office Supplies,Desk Organizer,3109.98,11,216.13,0.0,769.21,Corporate
+ORD-100488,2024-10-24,West,Office Supplies,Pens Set,50.11,3,12.77,0.0,15.72,Consumer
+ORD-100718,2024-10-24,West,Office Supplies,Pens Set,200.21,1,153.05,0.0,40.14,Home Office
+ORD-100302,2024-10-24,North,Office Supplies,Pens Set,1687.35,10,128.99,0.0,154.06,Consumer
+ORD-100230,2024-10-24,West,Electronics,Headphones,19392.2,10,1645.33,0.099,2108.42,Consumer
+ORD-100560,2024-10-24,West,Electronics,Monitor,1151.42,1,880.21,0.0,423.53,Corporate
+ORD-100059,2024-10-24,West,Electronics,Monitor,4211.72,2,1609.83,0.0,1740.2,Consumer
+ORD-100639,2024-10-25,West,Apparel,Backpack,965.14,6,132.74,0.074,77.36,Corporate
+ORD-101249,2024-10-25,North,Grocery,Coffee Beans,388.76,11,37.25,0.275,0.5,Home Office
+ORD-100974,2024-10-26,South,Furniture,Conference Table,4189.98,8,568.26,0.296,-348.44,Consumer
+ORD-101247,2024-10-26,North,Electronics,Laptop,1356.48,3,450.88,0.234,195.07,Consumer
+ORD-100890,2024-10-26,East,Furniture,Desk Chair,1627.17,2,621.44,0.0,463.66,Consumer
+ORD-101086,2024-10-26,South,Apparel,Running Shoes,3173.87,10,242.43,0.0,1755.74,Corporate
+ORD-100751,2024-10-26,West,Furniture,Bookshelf,797.84,2,315.76,0.035,351.63,Corporate
+ORD-100137,2024-10-26,West,Office Supplies,Pens Set,683.4,10,52.2,0.0,121.77,Consumer
+ORD-100236,2024-10-27,West,Furniture,Desk Chair,1752.6,3,446.05,0.0,556.42,Home Office
+ORD-101191,2024-10-27,South,Furniture,Conference Table,4134.14,10,315.65,0.0,198.95,Corporate
+ORD-101105,2024-10-28,North,Apparel,Backpack,339.35,10,28.65,0.096,83.33,Consumer
+ORD-100051,2024-10-28,South,Electronics,Monitor,4070.93,3,1035.66,0.0,622.58,Consumer
+ORD-100598,2024-10-28,North,Grocery,Coffee Beans,21.8,2,8.32,0.0,4.03,Home Office
+ORD-101120,2024-10-28,West,Office Supplies,Whiteboard,263.62,2,100.6,0.0,139.53,Home Office
+ORD-101284,2024-10-29,North,Grocery,Olive Oil,294.4,4,56.15,0.0,127.4,Home Office
+ORD-101242,2024-10-29,North,Furniture,Bookshelf,9979.44,11,692.12,0.0,3982.74,Consumer
+ORD-101443,2024-10-29,North,Electronics,Laptop,3637.93,9,378.84,0.186,757.52,Home Office
+ORD-101283,2024-10-30,South,Office Supplies,Desk Organizer,152.6,3,38.79,0.0,9.11,Consumer
+ORD-101076,2024-10-30,East,Office Supplies,Whiteboard,877.59,11,60.84,0.0,364.13,Corporate
+ORD-101201,2024-10-31,East,Office Supplies,Whiteboard,247.73,3,87.79,0.283,33.63,Home Office
+ORD-100130,2024-10-31,South,Electronics,Laptop,8701.37,11,602.99,0.0,2690.41,Consumer
+ORD-100998,2024-11-01,West,Grocery,Coffee Beans,643.86,8,52.24,0.0,80.39,Consumer
+ORD-101479,2024-11-01,West,Furniture,Standing Desk,6703.64,5,870.25,0.0,2467.23,Home Office
+ORD-100429,2024-11-02,South,Apparel,Running Shoes,349.06,4,56.62,0.0,102.77,Home Office
+ORD-100600,2024-11-02,East,Furniture,Conference Table,1613.32,11,95.16,0.0,1255.4,Consumer
+ORD-100535,2024-11-03,West,Electronics,Laptop,2921.46,5,408.35,0.072,1051.37,Corporate
+ORD-100846,2024-11-04,West,Furniture,Bookshelf,4629.75,11,272.86,0.0,1235.73,Corporate
+ORD-100926,2024-11-04,North,Electronics,Tablet,8602.06,10,557.67,0.0,2508.7,Corporate
+ORD-100811,2024-11-04,North,Electronics,Smartphone,2777.1,3,600.13,0.0,771.04,Consumer
+ORD-100290,2024-11-04,West,Apparel,T-Shirt Pack,353.04,1,234.5,0.024,149.8,Consumer
+ORD-100940,2024-11-05,West,Electronics,Monitor,10106.0,5,1309.81,0.0,1652.2,Consumer
+ORD-101379,2024-11-05,North,Furniture,Conference Table,5346.23,9,384.95,0.0,796.68,Consumer
+ORD-100317,2024-11-06,South,Office Supplies,Paper Reams,530.77,2,171.91,0.0,125.07,Consumer
+ORD-101216,2024-11-06,East,Furniture,Standing Desk,2636.92,3,681.07,0.164,810.85,Corporate
+ORD-100139,2024-11-06,East,Electronics,Smartphone,14733.95,11,867.66,0.0,4952.4,Consumer
+ORD-100754,2024-11-06,West,Office Supplies,Desk Organizer,1585.22,1,109.69,0.237,15.61,Consumer
+ORD-101430,2024-11-07,East,Grocery,Coffee Beans,77.91,1,50.45,0.0,23.48,Consumer
+ORD-100329,2024-11-08,South,Electronics,Monitor,1300.81,2,539.71,0.22,76.44,Consumer
+ORD-100619,2024-11-08,North,Electronics,Laptop,878.35,1,568.51,0.0,306.83,Home Office
+ORD-100936,2024-11-09,East,Grocery,Coffee Beans,759.8,9,54.62,0.0,433.49,Consumer
+ORD-100900,2024-11-09,East,Furniture,Standing Desk,5195.01,11,393.25,0.223,1802.59,Consumer
+ORD-101163,2024-11-09,North,Electronics,Smartphone,15803.97,7,1460.71,0.0,4183.85,Consumer
+ORD-100949,2024-11-10,East,Furniture,Conference Table,11892.97,9,854.61,0.0,3611.15,Consumer
+ORD-100494,2024-11-10,South,Apparel,Winter Jacket,4230.54,10,273.6,0.0,782.61,Consumer
+ORD-101250,2024-11-10,North,Electronics,Laptop,1574.82,1,1018.48,0.0,542.29,Consumer
+ORD-100232,2024-11-10,East,Grocery,Coffee Beans,307.09,4,49.65,0.0,131.1,Corporate
+ORD-101296,2024-11-11,East,Electronics,Headphones,3942.21,2,1274.25,0.0,1282.22,Consumer
+ORD-100747,2024-11-11,East,Furniture,Bookshelf,831.45,1,537.5,0.0,307.2,Home Office
+ORD-100836,2024-11-12,West,Apparel,Winter Jacket,361.56,9,32.05,0.19,-6.29,Corporate
+ORD-100567,2024-11-12,West,Electronics,Smartphone,4470.17,3,962.88,0.0,1867.31,Consumer
+ORD-101364,2024-11-13,South,Furniture,Conference Table,2964.46,10,240.26,0.203,451.55,Corporate
+ORD-100480,2024-11-13,West,Furniture,Bookshelf,5710.47,6,738.91,0.168,224.3,Consumer
+ORD-100158,2024-11-14,South,Office Supplies,Paper Reams,124.33,9,8.92,0.0,36.35,Home Office
+ORD-100021,2024-11-14,East,Furniture,Bookshelf,7173.95,7,857.16,0.228,1000.62,Corporate
+ORD-101315,2024-11-14,East,Office Supplies,Desk Organizer,223.11,3,48.02,0.0,66.05,Corporate
+ORD-100435,2024-11-14,North,Electronics,Laptop,11429.26,10,772.74,0.045,3216.37,Corporate
+ORD-101057,2024-11-15,North,Electronics,Monitor,6064.11,11,355.81,0.0,1566.84,Home Office
+ORD-100692,2024-11-15,East,Electronics,Monitor,3527.28,2,1619.19,0.297,6.85,Consumer
+ORD-100028,2024-11-15,North,Electronics,Tablet,15543.33,6,1672.0,0.0,4025.53,Corporate
+ORD-101470,2024-11-16,South,Grocery,Snack Box,20.32,1,13.11,0.0,3.5,Home Office
+ORD-100661,2024-11-16,North,Grocery,Snack Box,909.79,11,53.36,0.0,118.7,Home Office
+ORD-100615,2024-11-17,West,Apparel,Winter Jacket,330.22,4,53.24,0.0,67.88,Corporate
+ORD-100989,2024-11-17,East,Apparel,T-Shirt Pack,50.58,1,32.62,0.0,3.32,Home Office
+ORD-101040,2024-11-17,East,Electronics,Tablet,15246.99,8,1229.1,0.0,3303.55,Consumer
+ORD-100893,2024-11-17,North,Electronics,Laptop,8064.66,11,472.81,0.0,3372.57,Corporate
+ORD-100885,2024-11-17,West,Furniture,Bookshelf,11321.18,8,912.63,0.0,4357.21,Consumer
+ORD-101148,2024-11-18,East,Office Supplies,Pens Set,2470.72,9,176.97,0.0,865.01,Consumer
+ORD-100763,2024-11-18,North,Electronics,Laptop,1691.12,1,1258.85,0.134,341.97,Consumer
+ORD-100732,2024-11-19,North,Electronics,Laptop,9651.79,4,1554.86,0.0,2233.42,Corporate
+ORD-101092,2024-11-19,East,Electronics,Monitor,18946.28,8,1526.08,0.0,3808.6,Home Office
+ORD-100760,2024-11-19,East,Office Supplies,Paper Reams,56.49,2,18.2,0.0,8.27,Home Office
+ORD-101037,2024-11-20,South,Furniture,Standing Desk,4486.85,4,722.52,0.0,1067.69,Home Office
+ORD-101233,2024-11-20,South,Office Supplies,Whiteboard,1029.48,7,94.73,0.0,304.12,Corporate
+ORD-100765,2024-11-21,North,Electronics,Headphones,7455.31,4,1200.05,0.0,2891.48,Corporate
+ORD-101354,2024-11-21,East,Apparel,T-Shirt Pack,563.62,3,164.13,0.263,-67.75,Home Office
+ORD-100972,2024-11-21,East,Electronics,Tablet,7293.54,9,537.92,0.03,690.63,Corporate
+ORD-101117,2024-11-21,West,Apparel,Running Shoes,2801.34,8,225.46,0.0,385.39,Home Office
+ORD-100457,2024-11-22,North,Furniture,Bookshelf,7116.9,7,709.71,0.078,2208.56,Home Office
+ORD-101196,2024-11-23,West,Electronics,Monitor,2111.03,4,339.53,0.0,747.22,Consumer
+ORD-101051,2024-11-24,South,Electronics,Laptop,4587.09,6,491.65,0.0,974.2,Corporate
+ORD-100666,2024-11-24,West,Apparel,Backpack,2028.5,5,260.9,0.0,632.03,Consumer
+ORD-101381,2024-11-24,North,Electronics,Monitor,9412.23,8,756.61,0.0,1048.39,Consumer
+ORD-101434,2024-11-24,East,Electronics,Laptop,407.58,2,136.23,0.038,71.25,Corporate
+ORD-100064,2024-11-26,West,Office Supplies,Whiteboard,281.76,3,85.12,0.291,42.59,Consumer
+ORD-101223,2024-11-26,South,Office Supplies,Paper Reams,159.95,3,39.47,0.132,10.17,Consumer
+ORD-100425,2024-11-26,North,Apparel,Running Shoes,170.18,5,21.87,0.0,24.27,Corporate
+ORD-100447,2024-11-26,West,Office Supplies,Paper Reams,908.31,5,116.73,0.0,309.66,Corporate
+ORD-101022,2024-11-26,South,Grocery,Coffee Beans,242.06,7,22.22,0.0,76.34,Consumer
+ORD-101328,2024-11-26,West,Electronics,Monitor,9173.41,11,585.01,0.084,1823.41,Home Office
+ORD-101150,2024-11-27,West,Electronics,Headphones,3295.13,2,1058.25,0.0,128.49,Consumer
+ORD-101207,2024-11-27,North,Office Supplies,Pens Set,178.79,8,17.4,0.175,37.51,Consumer
+ORD-100716,2024-11-27,North,Office Supplies,Desk Organizer,2517.37,9,179.66,0.0,227.87,Corporate
+ORD-101069,2024-11-28,West,Furniture,Desk Chair,954.73,1,695.79,0.119,131.81,Consumer
+ORD-100999,2024-11-28,South,Electronics,Tablet,23413.96,11,1366.64,0.0,3444.99,Consumer
+ORD-100005,2024-11-29,East,Grocery,Olive Oil,125.87,3,31.42,0.143,29.91,Corporate
+ORD-100904,2024-11-29,West,Grocery,Tea Assortment,188.41,4,30.23,0.0,79.29,Consumer
+ORD-100938,2024-11-29,South,Grocery,Tea Assortment,53.52,5,6.87,0.0,13.19,Consumer
+ORD-100036,2024-11-29,West,Electronics,Laptop,28326.76,11,1652.73,0.0,6379.21,Corporate
+ORD-100495,2024-11-29,East,Office Supplies,Pens Set,135.12,8,10.84,0.0,45.07,Home Office
+ORD-100939,2024-12-01,East,Electronics,Laptop,896.63,1,574.99,0.0,205.61,Consumer
+ORD-101281,2024-12-01,North,Furniture,Conference Table,965.0,4,154.71,0.0,243.79,Consumer
+ORD-101133,2024-12-02,East,Office Supplies,Pens Set,330.69,2,105.99,0.0,108.65,Corporate
+ORD-101241,2024-12-02,West,Furniture,Bookshelf,2591.24,5,332.21,0.0,597.99,Home Office
+ORD-100264,2024-12-02,North,Grocery,Tea Assortment,494.89,11,28.84,0.0,205.68,Consumer
+ORD-100796,2024-12-02,East,Electronics,Tablet,16246.89,9,1418.12,0.184,2839.58,Corporate
+ORD-100201,2024-12-02,West,Grocery,Tea Assortment,378.25,11,31.4,0.298,-134.36,Home Office
+ORD-100251,2024-12-02,North,Apparel,T-Shirt Pack,120.81,1,77.44,0.0,29.48,Corporate
+ORD-101343,2024-12-03,North,Office Supplies,Paper Reams,257.57,8,20.63,0.0,77.88,Consumer
+ORD-100908,2024-12-04,South,Electronics,Monitor,16562.28,7,1778.73,0.148,2933.18,Corporate
+ORD-100941,2024-12-04,North,Apparel,Backpack,1732.14,8,165.69,0.163,411.51,Consumer
+ORD-101471,2024-12-04,East,Electronics,Smartphone,4644.63,2,1487.47,0.0,1098.29,Consumer
+ORD-100886,2024-12-05,West,Furniture,Bookshelf,2109.8,3,450.27,0.0,980.96,Home Office
+ORD-101047,2024-12-05,North,Apparel,T-Shirt Pack,893.16,5,114.37,0.0,228.23,Consumer
+ORD-100715,2024-12-06,North,Electronics,Headphones,5299.36,3,1529.81,0.261,619.35,Home Office
+ORD-100863,2024-12-06,West,Office Supplies,Pens Set,911.53,7,83.34,0.0,156.71,Consumer
+ORD-100869,2024-12-06,East,Electronics,Headphones,11666.38,7,1066.64,0.0,3435.93,Consumer
+ORD-100973,2024-12-07,East,Grocery,Snack Box,983.86,11,57.22,0.0,429.6,Consumer
+ORD-100514,2024-12-07,South,Furniture,Standing Desk,1970.19,6,210.07,0.0,357.71,Home Office
+ORD-100802,2024-12-07,South,Grocery,Coffee Beans,389.03,8,31.11,0.0,29.42,Consumer
+ORD-100877,2024-12-07,East,Furniture,Conference Table,1714.29,3,365.57,0.0,692.38,Home Office
+ORD-101049,2024-12-08,South,Electronics,Smartphone,2109.18,3,610.04,0.263,-405.44,Corporate
+ORD-100136,2024-12-08,South,Grocery,Coffee Beans,179.96,2,57.54,0.0,58.86,Home Office
+ORD-100250,2024-12-08,East,Office Supplies,Desk Organizer,979.65,4,201.31,0.222,112.55,Home Office
+ORD-100739,2024-12-09,East,Furniture,Desk Chair,4614.91,8,368.75,0.0,539.42,Consumer
+ORD-100466,2024-12-10,East,Office Supplies,Whiteboard,567.35,7,65.89,0.214,43.62,Corporate
+ORD-101478,2024-12-10,East,Office Supplies,Whiteboard,1500.05,9,106.5,0.0,178.19,Home Office
+ORD-100479,2024-12-10,North,Furniture,Bookshelf,2992.83,5,382.47,0.0,443.12,Corporate
+ORD-101006,2024-12-10,West,Grocery,Olive Oil,385.46,5,49.26,0.0,121.0,Consumer
+ORD-100245,2024-12-10,East,Apparel,Running Shoes,134.0,2,42.81,0.0,31.66,Corporate
+ORD-100062,2024-12-11,West,Office Supplies,Pens Set,496.77,9,43.85,0.196,28.22,Consumer
+ORD-101098,2024-12-11,West,Apparel,T-Shirt Pack,813.97,6,86.65,0.0,190.0,Corporate
+ORD-100778,2024-12-11,West,Apparel,Running Shoes,1098.73,6,123.25,0.051,353.41,Corporate
+ORD-101410,2024-12-12,East,Apparel,Running Shoes,4278.24,11,248.32,0.0,1244.09,Consumer
+ORD-101340,2024-12-12,West,Electronics,Headphones,16267.86,10,1038.65,0.0,6314.42,Consumer
+ORD-100332,2024-12-12,South,Office Supplies,Pens Set,1778.1,9,126.14,0.0,232.52,Consumer
+ORD-100238,2024-12-13,East,Electronics,Laptop,26338.1,11,1528.12,0.0,6726.42,Consumer
+ORD-100541,2024-12-13,West,Office Supplies,Pens Set,102.21,1,65.23,0.0,33.28,Corporate
+ORD-100204,2024-12-13,South,Electronics,Headphones,454.58,1,367.24,0.21,115.8,Home Office
+ORD-100177,2024-12-13,South,Grocery,Tea Assortment,249.96,7,23.47,0.029,24.8,Consumer
+ORD-101195,2024-12-13,North,Electronics,Smartphone,11537.42,6,1726.05,0.289,2315.04,Corporate
+ORD-101252,2024-12-14,West,Electronics,Headphones,12177.36,5,1553.73,0.0,5402.69,Consumer
+ORD-100870,2024-12-14,South,Apparel,Backpack,349.07,1,222.69,0.0,106.33,Consumer
+ORD-100032,2024-12-14,East,Furniture,Bookshelf,295.1,1,188.26,0.0,83.57,Consumer
+ORD-100242,2024-12-15,North,Electronics,Headphones,1144.79,4,182.51,0.0,334.99,Home Office
+ORD-100544,2024-12-15,West,Electronics,Smartphone,7830.53,9,554.84,0.0,2737.63,Consumer
+ORD-100684,2024-12-15,East,Office Supplies,Pens Set,748.43,8,59.66,0.0,335.97,Consumer
+ORD-100120,2024-12-15,North,Office Supplies,Pens Set,328.99,10,20.98,0.0,141.89,Consumer
+ORD-101329,2024-12-16,East,Electronics,Smartphone,5044.25,5,836.27,0.231,-133.77,Home Office
+ORD-100269,2024-12-16,West,Electronics,Smartphone,407.51,2,167.16,0.223,28.55,Consumer
+ORD-101015,2024-12-17,West,Electronics,Headphones,24653.96,9,1745.49,0.0,7442.43,Corporate
+ORD-100207,2024-12-17,South,Office Supplies,Desk Organizer,826.78,7,75.26,0.0,226.67,Consumer
+ORD-100964,2024-12-17,North,Grocery,Coffee Beans,53.7,5,8.47,0.192,5.68,Consumer
+ORD-101306,2024-12-17,South,Office Supplies,Whiteboard,233.9,6,24.84,0.0,17.32,Corporate
+ORD-100562,2024-12-18,East,Apparel,Winter Jacket,240.35,3,51.03,0.0,61.35,Home Office
+ORD-101491,2024-12-18,West,Apparel,Winter Jacket,1004.77,2,319.99,0.0,334.36,Home Office
+ORD-100559,2024-12-19,North,Office Supplies,Whiteboard,770.23,8,61.3,0.0,147.12,Corporate
+ORD-101012,2024-12-19,North,Furniture,Desk Chair,665.87,5,84.79,0.0,191.26,Home Office
+ORD-101010,2024-12-19,South,Office Supplies,Pens Set,39.39,1,25.08,0.0,4.42,Consumer
+ORD-100065,2024-12-19,South,Office Supplies,Whiteboard,1647.98,5,209.85,0.0,718.09,Consumer
+ORD-100897,2024-12-20,North,Electronics,Tablet,900.39,4,143.26,0.0,276.54,Consumer
+ORD-100854,2024-12-20,South,Electronics,Tablet,4454.56,8,354.38,0.0,2023.22,Corporate
+ORD-100695,2024-12-20,West,Office Supplies,Pens Set,457.74,4,72.83,0.0,24.18,Consumer
+ORD-100898,2024-12-20,North,Electronics,Headphones,80094.06,5,1131.12,0.0,1589.24,Consumer
+ORD-100842,2024-12-21,East,Office Supplies,Desk Organizer,1783.01,8,175.7,0.193,-242.03,Corporate
+ORD-101301,2024-12-21,South,Office Supplies,Whiteboard,1333.6,6,161.05,0.122,150.53,Corporate
+ORD-100533,2024-12-21,South,Office Supplies,Paper Reams,198.93,9,19.75,0.288,23.35,Consumer
+ORD-101361,2024-12-21,East,Furniture,Conference Table,3536.62,3,749.98,0.0,487.01,Corporate
+ORD-100349,2024-12-22,East,Electronics,Tablet,12050.38,6,1277.2,0.0,3072.46,Consumer
+ORD-100131,2024-12-22,West,Grocery,Olive Oil,621.92,10,39.55,0.0,106.99,Home Office
+ORD-101264,2024-12-22,North,Office Supplies,Pens Set,153.96,1,138.48,0.293,9.03,Corporate
+ORD-100628,2024-12-22,North,Office Supplies,Whiteboard,646.46,9,54.77,0.166,122.1,Corporate
+ORD-100848,2024-12-22,North,Electronics,Smartphone,721.87,1,459.06,0.0,218.77,Consumer
+ORD-101003,2024-12-23,West,Electronics,Smartphone,15857.26,10,1008.01,0.0,5942.63,Consumer
+ORD-100729,2024-12-23,East,Office Supplies,Desk Organizer,2011.59,9,142.08,0.0,100.57,Corporate
+ORD-100162,2024-12-23,West,Electronics,Smartphone,8722.03,8,693.05,0.0,3566.39,Consumer
+ORD-100864,2024-12-23,East,Electronics,Tablet,14268.56,9,1007.8,0.0,4395.22,Home Office
+ORD-100988,2024-12-23,North,Furniture,Standing Desk,797.67,6,84.51,0.0,295.5,Home Office
+ORD-100308,2024-12-24,South,Electronics,Laptop,5167.03,6,706.99,0.226,-3.37,Corporate
+ORD-100645,2024-12-25,West,Apparel,T-Shirt Pack,245.51,4,45.49,0.143,76.98,Corporate
+ORD-100073,2024-12-25,West,Electronics,Monitor,4037.52,6,427.42,0.0,2598.47,Corporate
+ORD-100835,2024-12-26,East,Office Supplies,Whiteboard,56.74,1,45.66,0.211,4.36,Consumer
+ORD-100391,2024-12-27,East,Electronics,Smartphone,12923.34,7,1171.72,0.0,2290.02,Corporate
+ORD-100169,2024-12-28,West,Grocery,Olive Oil,344.9,7,42.82,0.27,107.16,Corporate
+ORD-101392,2024-12-28,East,Electronics,Laptop,6091.01,8,483.03,0.0,1231.79,Corporate
+ORD-100918,2024-12-28,North,Furniture,Bookshelf,1898.94,4,323.85,0.07,31.93,Corporate
+ORD-100002,2024-12-29,South,Apparel,T-Shirt Pack,2081.79,7,188.6,0.0,1022.49,Consumer
+ORD-101367,2024-12-29,East,Electronics,Smartphone,1988.59,1,1436.33,0.122,418.6,Corporate
+ORD-101387,2024-12-30,West,Furniture,Conference Table,3328.73,11,191.83,0.0,1310.61,Consumer
+ORD-100225,2024-12-30,North,Grocery,Coffee Beans,113.42,8,9.47,0.051,13.66,Home Office
+ORD-100107,2024-12-30,North,Electronics,Smartphone,1289.18,3,337.14,0.192,201.31,Corporate
+ORD-101204,2024-12-30,East,Electronics,Laptop,8983.31,5,1138.93,0.0,3382.77,Corporate
+ORD-100060,2024-12-30,West,Office Supplies,Whiteboard,1960.52,8,155.35,0.0,612.92,Corporate
+ORD-100168,2024-12-30,North,Furniture,Standing Desk,2853.08,5,380.76,0.05,557.94,Consumer
+ORD-100670,2024-12-31,South,Electronics,Headphones,5818.63,5,737.41,0.0,1578.81,Consumer
+ORD-100530,2024-12-31,North,Office Supplies,Paper Reams,451.85,4,71.58,0.0,196.21,Consumer
+ORD-100161,2025-01-01,East,Grocery,Tea Assortment,141.33,3,35.03,0.0,24.16,Home Office
+ORD-100350,2025-01-01,North,Office Supplies,Paper Reams,251.8,1,187.23,0.0,78.92,Consumer
+ORD-100788,2025-01-01,North,Apparel,Winter Jacket,3311.99,10,246.27,0.0,873.66,Consumer
+ORD-100596,2025-01-01,North,Office Supplies,Whiteboard,87.01,1,64.7,0.0,31.04,Home Office
+ORD-100160,2025-01-02,North,Electronics,Headphones,3439.07,2,1278.09,0.0,771.54,Home Office
+ORD-100623,2025-01-02,North,Furniture,Standing Desk,4259.46,7,452.28,0.0,2141.35,Home Office
+ORD-100755,2025-01-02,East,Electronics,Monitor,3110.56,9,256.89,0.0,191.08,Consumer
+ORD-100306,2025-01-02,North,Furniture,Bookshelf,10107.94,11,683.0,0.0,3103.83,Consumer
+ORD-100055,2025-01-02,West,Apparel,T-Shirt Pack,237.91,9,26.66,0.263,-11.96,Consumer
+ORD-100817,2025-01-03,West,Office Supplies,Paper Reams,420.74,6,52.1,0.0,128.43,Consumer
+ORD-100103,2025-01-03,West,Grocery,Snack Box,509.96,8,50.6,0.064,112.91,Corporate
+ORD-100473,2025-01-03,South,Electronics,Tablet,13021.47,9,1074.97,0.0,3672.24,Consumer
+ORD-100665,2025-01-03,North,Office Supplies,Pens Set,166.3,1,174.03,0.29,-19.04,Consumer
+ORD-101383,2025-01-03,South,Grocery,Snack Box,62.52,10,6.57,0.293,2.26,Consumer
+ORD-100579,2025-01-04,North,Furniture,Desk Chair,3696.35,3,915.08,0.0,1128.88,Consumer
+ORD-100086,2025-01-04,South,Office Supplies,Pens Set,493.01,3,122.05,0.0,-44.34,Consumer
+ORD-100340,2025-01-04,North,Electronics,Tablet,12818.47,6,1586.69,0.0,2576.58,Consumer
+ORD-101218,2025-01-05,North,Office Supplies,Whiteboard,387.07,4,71.84,0.0,100.42,Home Office
+ORD-100321,2025-01-05,South,Office Supplies,Pens Set,645.28,5,95.81,0.0,216.0,Consumer
+ORD-101014,2025-01-06,North,Furniture,Bookshelf,945.86,3,291.74,0.198,-65.97,Corporate
+ORD-100714,2025-01-06,West,Apparel,Winter Jacket,1111.28,4,206.17,0.0,402.69,Home Office
+ORD-100946,2025-01-06,North,Office Supplies,Desk Organizer,1895.8,8,175.86,0.0,132.46,Consumer
+ORD-101193,2025-01-07,West,Grocery,Tea Assortment,35.74,1,31.08,0.147,7.98,Home Office
+ORD-100275,2025-01-07,East,Furniture,Desk Chair,10567.16,11,712.62,0.0,2789.21,Home Office
+ORD-100899,2025-01-08,East,Office Supplies,Paper Reams,2811.08,10,227.81,0.085,617.93,Consumer
+ORD-100292,2025-01-08,North,Grocery,Olive Oil,356.56,6,54.74,0.195,19.06,Corporate
+ORD-100789,2025-01-08,South,Office Supplies,Desk Organizer,980.98,5,204.33,0.288,-13.11,Corporate
+ORD-100686,2025-01-08,West,Furniture,Bookshelf,6660.86,6,899.66,0.085,1366.64,Consumer
+ORD-100338,2025-01-09,West,Electronics,Laptop,4031.71,8,373.55,0.0,881.84,Consumer
+ORD-101402,2025-01-09,North,Grocery,Coffee Beans,52.67,2,21.31,0.084,15.68,Consumer
+ORD-100775,2025-01-10,North,Apparel,T-Shirt Pack,536.41,3,132.48,0.0,107.94,Consumer
+ORD-101240,2025-01-10,North,Apparel,T-Shirt Pack,1272.45,5,188.56,0.0,241.45,Corporate
+ORD-100745,2025-01-10,North,Office Supplies,Desk Organizer,124.83,3,30.83,0.0,54.55,Corporate
+ORD-100209,2025-01-12,South,Office Supplies,Whiteboard,2759.25,10,204.28,0.0,639.27,Consumer
+ORD-101498,2025-01-12,West,Furniture,Standing Desk,885.71,1,655.73,0.0,114.18,Home Office
+ORD-100768,2025-01-13,East,Electronics,Tablet,2023.06,1,1497.18,0.0,276.0,Corporate
+ORD-100922,2025-01-13,West,Office Supplies,Whiteboard,511.92,4,105.47,0.102,95.82,Consumer
+ORD-101017,2025-01-14,North,Apparel,Running Shoes,315.24,10,23.32,0.0,33.32,Consumer
+ORD-101114,2025-01-14,North,Grocery,Tea Assortment,330.98,5,48.97,0.0,99.37,Corporate
+ORD-100356,2025-01-14,North,Apparel,T-Shirt Pack,414.46,3,115.09,0.112,93.32,Corporate
+ORD-100076,2025-01-14,West,Electronics,Tablet,3167.01,2,1171.42,0.0,1041.74,Consumer
+ORD-100647,2025-01-15,West,Office Supplies,Whiteboard,49.22,3,13.96,0.131,7.55,Consumer
+ORD-100985,2025-01-15,South,Grocery,Tea Assortment,89.34,2,38.86,0.15,13.96,Consumer
+ORD-100146,2025-01-15,South,Furniture,Standing Desk,3053.95,3,752.77,0.0,1465.26,Corporate
+ORD-101476,2025-01-15,East,Furniture,Bookshelf,4230.94,7,497.72,0.102,782.08,Corporate
+ORD-100092,2025-01-15,West,Furniture,Standing Desk,4999.37,6,616.15,0.0,1847.91,Home Office
+ORD-100268,2025-01-15,North,Electronics,Smartphone,988.38,4,182.72,0.0,239.09,Home Office
+ORD-100119,2025-01-15,North,Office Supplies,Pens Set,78.98,10,8.1,0.279,6.97,Consumer
+ORD-100748,2025-01-17,South,Apparel,Backpack,1249.87,6,153.92,0.0,513.15,Consumer
+ORD-101344,2025-01-17,North,Grocery,Coffee Beans,84.86,3,20.9,0.0,29.33,Corporate
+ORD-100452,2025-01-18,West,Office Supplies,Whiteboard,1422.31,10,121.87,0.138,-161.18,Consumer
+ORD-100539,2025-01-18,West,Apparel,T-Shirt Pack,2616.52,8,241.57,0.0,579.87,Consumer
+ORD-100809,2025-01-18,West,Grocery,Olive Oil,713.67,11,47.92,0.0,173.65,Corporate
+ORD-100800,2025-01-19,West,Apparel,Backpack,543.78,4,139.21,0.279,-59.56,Consumer
+ORD-100574,2025-01-19,South,Apparel,Running Shoes,2191.63,11,147.1,0.0,303.35,Consumer
+ORD-101469,2025-01-19,North,Electronics,Monitor,11654.3,10,1124.77,0.235,562.18,Consumer
+ORD-101280,2025-01-20,North,Furniture,Desk Chair,1911.14,2,705.23,0.0,557.83,Consumer
+ORD-100798,2025-01-20,North,Office Supplies,Pens Set,1855.37,10,136.93,0.0,845.15,Consumer
+ORD-100919,2025-01-20,West,Office Supplies,Desk Organizer,2068.61,11,145.94,0.049,440.84,Consumer
+ORD-100641,2025-01-20,South,Apparel,Running Shoes,2867.89,8,264.57,0.0,572.23,Consumer
+ORD-101341,2025-01-21,South,Apparel,Winter Jacket,1389.27,11,101.94,0.086,408.14,Consumer
+ORD-100857,2025-01-21,East,Apparel,Backpack,155.96,1,115.06,0.0,22.92,Consumer
+ORD-100216,2025-01-22,South,Electronics,Monitor,6889.3,5,1016.09,0.0,2182.48,Consumer
+ORD-100360,2025-01-22,East,Grocery,Coffee Beans,135.56,5,22.85,0.125,20.24,Consumer
+ORD-101159,2025-01-22,North,Apparel,Backpack,976.58,11,65.47,0.0,294.34,Consumer
+ORD-100634,2025-01-24,East,Electronics,Tablet,7878.49,4,1451.34,0.0,3381.22,Corporate
+ORD-100226,2025-01-24,South,Electronics,Monitor,6349.29,5,935.71,0.0,608.98,Corporate
+ORD-100115,2025-01-26,North,Apparel,Winter Jacket,1345.19,4,247.61,0.0,471.18,Corporate
+ORD-101122,2025-01-26,North,Apparel,Backpack,832.4,2,306.44,0.0,115.5,Home Office
+ORD-100875,2025-01-26,North,Grocery,Coffee Beans,128.35,3,31.5,0.0,45.27,Consumer
+ORD-100097,2025-01-26,North,Electronics,Smartphone,2420.49,2,1023.06,0.129,225.63,Consumer
+ORD-100053,2025-01-26,South,Office Supplies,Desk Organizer,736.59,9,60.26,0.0,290.91,Corporate
+ORD-100385,2025-01-27,South,Grocery,Tea Assortment,360.12,5,53.01,0.0,85.27,Corporate
+ORD-101472,2025-01-27,North,Electronics,Headphones,10668.87,11,713.84,0.0,1973.94,Corporate
+ORD-101027,2025-01-27,West,Furniture,Conference Table,1373.71,4,298.42,0.153,262.13,Corporate
+ORD-100382,2025-01-28,South,Apparel,Winter Jacket,247.93,1,215.86,0.155,8.17,Home Office
+ORD-101374,2025-01-28,North,Grocery,Snack Box,372.54,8,34.26,0.0,133.21,Corporate
+ORD-100844,2025-01-28,East,Electronics,Monitor,11596.84,10,1130.05,0.245,338.48,Home Office
+ORD-100379,2025-01-28,East,Office Supplies,Paper Reams,784.08,5,115.37,0.0,172.4,Home Office
+ORD-100185,2025-01-29,North,Office Supplies,Whiteboard,2405.43,10,176.9,0.0,245.39,Consumer
+ORD-100614,2025-01-29,North,Electronics,Headphones,18500.87,8,1775.3,0.042,3094.65,Corporate
+ORD-101056,2025-01-29,North,Grocery,Olive Oil,281.91,4,51.83,0.0,77.01,Consumer
+ORD-100611,2025-01-29,East,Office Supplies,Whiteboard,734.71,8,67.54,0.0,214.61,Consumer
+ORD-100703,2025-01-29,North,Apparel,Running Shoes,711.57,10,52.33,0.0,295.31,Corporate
+ORD-101331,2025-01-31,South,Office Supplies,Desk Organizer,1831.29,8,213.47,0.212,70.98,Home Office
+ORD-100049,2025-01-31,North,Electronics,Smartphone,3410.62,3,963.58,0.133,521.4,Consumer
+ORD-100040,2025-01-31,West,Furniture,Standing Desk,6455.66,10,474.39,0.0,2952.78,Consumer
+ORD-100536,2025-02-02,West,Office Supplies,Pens Set,149.21,3,36.52,0.0,61.17,Consumer
+ORD-100367,2025-02-02,North,Office Supplies,Pens Set,758.71,10,55.71,0.0,276.91,Corporate
+ORD-100667,2025-02-03,South,Grocery,Snack Box,314.9,8,30.19,0.043,79.4,Consumer
+ORD-100903,2025-02-04,West,Office Supplies,Paper Reams,778.33,7,81.58,0.0,321.35,Corporate
+ORD-101384,2025-02-05,East,Grocery,Tea Assortment,13.35,1,9.79,0.0,2.73,Home Office
+ORD-101208,2025-02-05,North,Electronics,Headphones,1684.18,3,411.73,0.0,384.3,Consumer
+ORD-101348,2025-02-05,West,Furniture,Standing Desk,1267.89,3,309.96,0.0,327.0,Corporate
+ORD-101418,2025-02-05,North,Grocery,Olive Oil,159.8,4,29.3,0.0,48.67,Consumer
+ORD-100471,2025-02-06,West,Furniture,Conference Table,4148.49,5,608.27,0.0,552.45,Consumer
+ORD-101286,2025-02-06,East,Furniture,Bookshelf,8443.33,8,773.75,0.0,2578.46,Home Office
+ORD-100166,2025-02-06,West,Apparel,Winter Jacket,2711.14,10,198.76,0.0,801.9,Consumer
+ORD-100444,2025-02-06,West,Electronics,Monitor,2042.03,3,499.02,0.0,853.5,Home Office
+ORD-101380,2025-02-06,North,Furniture,Desk Chair,1595.83,3,389.98,0.0,589.42,Corporate
+ORD-100111,2025-02-06,West,Electronics,Monitor,11446.18,11,762.86,0.0,4461.24,Consumer
+ORD-100210,2025-02-06,West,Office Supplies,Pens Set,21.14,1,15.5,0.0,6.17,Consumer
+ORD-101335,2025-02-06,East,Apparel,Backpack,4351.7,11,290.03,0.0,1509.71,Consumer
+ORD-100698,2025-02-07,North,Office Supplies,Desk Organizer,239.43,1,175.46,0.0,75.29,Consumer
+ORD-100575,2025-02-08,East,Office Supplies,Desk Organizer,2087.91,10,152.95,0.0,497.69,Consumer
+ORD-101176,2025-02-08,South,Furniture,Conference Table,1420.99,7,180.47,0.176,69.76,Corporate
+ORD-100833,2025-02-08,North,Office Supplies,Pens Set,2710.93,10,233.91,0.151,-57.37,Consumer
+ORD-101396,2025-02-08,West,Office Supplies,Desk Organizer,806.44,6,98.46,0.0,283.86,Consumer
+ORD-101224,2025-02-09,North,Electronics,Smartphone,16764.41,10,1227.6,0.0,4931.5,Consumer
+ORD-100296,2025-02-09,East,Grocery,Olive Oil,733.97,11,48.86,0.0,107.09,Corporate
+ORD-100556,2025-02-10,West,Electronics,Laptop,14240.07,8,1554.81,0.162,2534.46,Consumer
+ORD-100244,2025-02-10,East,Office Supplies,Whiteboard,383.21,6,46.75,0.0,93.39,Consumer
+ORD-101397,2025-02-10,North,Grocery,Olive Oil,144.88,5,21.21,0.0,61.16,Corporate
+ORD-100020,2025-02-10,South,Apparel,Backpack,856.83,2,313.59,0.0,272.15,Consumer
+ORD-101225,2025-02-10,East,Grocery,Snack Box,135.1,11,8.99,0.0,25.06,Home Office
+ORD-101028,2025-02-11,West,Apparel,Backpack,638.4,3,201.69,0.228,-96.31,Consumer
+ORD-100584,2025-02-11,East,Grocery,Coffee Beans,414.11,10,30.3,0.0,242.86,Home Office
+ORD-100133,2025-02-11,East,Furniture,Desk Chair,373.15,1,309.21,0.117,54.54,Consumer
+ORD-100472,2025-02-12,East,Electronics,Monitor,17094.64,7,1786.17,0.0,7162.32,Corporate
+ORD-100017,2025-02-12,West,Electronics,Headphones,11465.47,7,1503.13,0.203,436.59,Consumer
+ORD-100861,2025-02-13,North,Apparel,Backpack,1593.49,4,291.26,0.0,675.52,Consumer
+ORD-100599,2025-02-13,North,Office Supplies,Pens Set,407.95,3,99.42,0.0,182.24,Consumer
+ORD-101183,2025-02-13,East,Electronics,Smartphone,984.06,1,719.47,0.0,274.8,Consumer
+ORD-100365,2025-02-14,West,Furniture,Bookshelf,2684.17,5,392.34,0.0,379.64,Consumer
+ORD-100764,2025-02-14,East,Grocery,Tea Assortment,57.69,2,21.08,0.0,9.89,Consumer
+ORD-101468,2025-02-14,East,Office Supplies,Desk Organizer,2848.58,11,189.26,0.0,1014.85,Home Office
+ORD-101426,2025-02-15,East,Electronics,Laptop,24469.84,10,1787.66,0.0,1792.81,Consumer
+ORD-101079,2025-02-16,West,Furniture,Standing Desk,12483.29,10,911.62,0.0,2638.95,Consumer
+ORD-100037,2025-02-16,East,Furniture,Conference Table,1794.23,4,327.57,0.0,808.94,Consumer
+ORD-100404,2025-02-16,East,Grocery,Snack Box,187.32,11,14.1,0.118,14.47,Home Office
+ORD-101005,2025-02-18,North,Furniture,Conference Table,2214.99,4,475.38,0.15,222.85,Consumer
+ORD-100962,2025-02-18,North,Electronics,Headphones,2508.65,2,1088.33,0.159,516.93,Corporate
+ORD-101235,2025-02-18,South,Electronics,Monitor,7214.47,4,1433.67,0.082,1443.2,Consumer
+ORD-100956,2025-02-18,East,Apparel,Winter Jacket,705.08,5,102.9,0.0,196.45,Home Office
+ORD-101074,2025-02-18,East,Apparel,Backpack,353.54,1,257.98,0.0,96.62,Consumer
+ORD-100450,2025-02-18,West,Electronics,Laptop,7411.75,11,616.13,0.202,1412.49,Corporate
+ORD-100113,2025-02-19,South,Office Supplies,Whiteboard,1255.13,4,228.88,0.0,257.59,Corporate
+ORD-101298,2025-02-19,East,Office Supplies,Whiteboard,2997.17,10,218.62,0.0,-8.14,Corporate
+ORD-100171,2025-02-19,East,Office Supplies,Whiteboard,730.3,5,106.54,0.0,193.23,Corporate
+ORD-100004,2025-02-20,West,Electronics,Smartphone,2135.22,7,222.41,0.0,716.72,Consumer
+ORD-101106,2025-02-20,East,Electronics,Monitor,14782.13,9,1197.58,0.0,6605.62,Corporate
+ORD-100061,2025-02-20,East,Furniture,Conference Table,1031.43,2,430.73,0.127,5.78,Consumer
+ORD-100558,2025-02-20,North,Office Supplies,Whiteboard,1737.12,6,211.1,0.0,639.82,Corporate
+ORD-100045,2025-02-21,South,Apparel,Backpack,1098.32,6,133.42,0.0,209.7,Home Office
+ORD-100378,2025-02-21,East,Furniture,Conference Table,2287.9,5,333.51,0.0,619.2,Consumer
+ORD-100458,2025-02-21,West,Apparel,T-Shirt Pack,1063.16,5,170.68,0.092,126.58,Consumer
+ORD-100448,2025-02-21,North,Electronics,Tablet,12594.92,9,1268.64,0.196,1095.98,Consumer
+ORD-101013,2025-02-21,North,Grocery,Coffee Beans,421.91,7,43.93,0.0,55.32,Consumer
+ORD-100699,2025-02-22,East,Electronics,Headphones,10462.7,8,1055.21,0.097,4470.91,Consumer
+ORD-101294,2025-02-22,West,Furniture,Desk Chair,9695.64,11,642.18,0.0,4728.18,Home Office
+ORD-100727,2025-02-22,North,Electronics,Monitor,4794.74,6,582.22,0.0,967.03,Consumer
+ORD-100368,2025-02-22,East,Furniture,Standing Desk,5923.06,9,561.46,0.146,557.95,Consumer
+ORD-100399,2025-02-22,North,Furniture,Standing Desk,7570.0,7,787.9,0.0,3005.9,Corporate
+ORD-100485,2025-02-24,West,Furniture,Desk Chair,9596.14,9,853.0,0.09,2582.42,Corporate
+ORD-100022,2025-02-24,West,Grocery,Olive Oil,116.26,8,10.58,0.0,46.22,Consumer
+ORD-100872,2025-02-25,South,Grocery,Tea Assortment,76.84,2,27.96,0.0,25.13,Consumer
+ORD-101066,2025-02-25,North,Furniture,Desk Chair,8732.92,9,706.13,0.0,2511.6,Consumer
+ORD-101256,2025-02-25,West,Apparel,Running Shoes,625.5,3,151.73,0.0,267.61,Consumer
+ORD-100895,2025-02-26,West,Grocery,Tea Assortment,793.64,5,10.06,0.0,29.99,Corporate
+ORD-100658,2025-02-27,South,Office Supplies,Desk Organizer,1837.02,7,190.83,0.0,246.39,Home Office
+ORD-101173,2025-02-27,South,Apparel,Backpack,2826.99,11,213.09,0.123,305.25,Consumer
+ORD-101034,2025-02-27,West,Furniture,Conference Table,617.5,2,224.51,0.0,251.95,Consumer
+ORD-100657,2025-02-28,North,Electronics,Tablet,21429.82,9,1730.77,0.0,6069.59,Consumer
+ORD-101052,2025-03-01,East,Electronics,Monitor,5768.29,8,740.16,0.186,909.78,Corporate
+ORD-100006,2025-03-01,East,Apparel,Running Shoes,1285.86,5,214.89,0.0,441.45,Corporate
+ORD-100550,2025-03-01,West,Furniture,Conference Table,9062.57,10,831.24,0.089,3415.69,Home Office
+ORD-100865,2025-03-01,East,Grocery,Coffee Beans,27.78,1,23.21,0.0,5.49,Consumer
+ORD-100358,2025-03-02,North,Office Supplies,Paper Reams,668.07,6,125.85,0.261,-37.44,Corporate
+ORD-100163,2025-03-02,North,Electronics,Monitor,11737.05,10,1078.5,0.091,1588.89,Corporate
+ORD-100799,2025-03-03,East,Office Supplies,Paper Reams,214.05,4,44.68,0.0,73.16,Consumer
+ORD-100310,2025-03-03,North,Furniture,Standing Desk,569.91,3,216.39,0.267,63.71,Home Office
+ORD-100421,2025-03-04,South,Electronics,Monitor,5373.73,5,1006.74,0.109,-128.38,Consumer
+ORD-100012,2025-03-04,East,Office Supplies,Whiteboard,49.6,4,10.35,0.0,10.13,Corporate
+ORD-100752,2025-03-04,South,Electronics,Smartphone,1708.58,1,1426.02,0.0,640.87,Consumer
+ORD-100386,2025-03-05,North,Office Supplies,Paper Reams,734.45,11,71.97,0.226,-167.36,Corporate
+ORD-101248,2025-03-06,South,Grocery,Coffee Beans,631.13,11,47.85,0.0,187.74,Consumer
+ORD-101450,2025-03-07,North,Apparel,T-Shirt Pack,409.35,5,88.18,0.226,89.79,Home Office
+ORD-100966,2025-03-07,West,Grocery,Tea Assortment,201.88,5,33.66,0.0,20.48,Consumer
+ORD-100820,2025-03-07,North,Electronics,Monitor,13279.55,11,1225.84,0.179,1310.04,Corporate
+ORD-101461,2025-03-08,West,Office Supplies,Desk Organizer,506.88,3,140.8,0.0,88.84,Consumer
+ORD-100891,2025-03-08,East,Grocery,Olive Oil,76.82,3,21.34,0.0,19.68,Corporate
+ORD-100896,2025-03-08,North,Electronics,Monitor,16915.81,10,1676.16,0.159,4274.83,Consumer
+ORD-100303,2025-03-09,East,Office Supplies,Paper Reams,164.01,3,45.54,0.0,22.34,Home Office
+ORD-100453,2025-03-10,West,Electronics,Smartphone,1173.47,2,579.56,0.157,8.23,Consumer
+ORD-100705,2025-03-11,East,Office Supplies,Whiteboard,1031.37,7,122.64,0.0,198.21,Consumer
+ORD-101100,2025-03-11,South,Electronics,Tablet,8293.19,10,690.3,0.0,726.05,Consumer
+ORD-100942,2025-03-12,North,Electronics,Smartphone,3755.44,3,1041.57,0.0,742.26,Consumer
+ORD-100720,2025-03-12,South,Office Supplies,Desk Organizer,1074.2,9,99.31,0.0,253.46,Corporate
+ORD-101094,2025-03-13,South,Office Supplies,Desk Organizer,594.68,3,164.87,0.0,77.15,Consumer
+ORD-100228,2025-03-13,North,Office Supplies,Pens Set,516.45,4,112.92,0.049,232.09,Corporate
+ORD-100333,2025-03-13,North,Apparel,Running Shoes,1218.76,9,158.19,0.288,-37.07,Consumer
+ORD-100957,2025-03-14,North,Office Supplies,Whiteboard,1631.09,10,135.61,0.0,758.87,Home Office
+ORD-101234,2025-03-14,North,Electronics,Headphones,12317.01,9,1137.83,0.0,2547.42,Consumer
+ORD-100127,2025-03-15,North,Electronics,Monitor,776.75,5,129.11,0.0,265.94,Consumer
+ORD-100609,2025-03-15,North,Furniture,Bookshelf,250.32,3,88.79,0.219,41.06,Consumer
+ORD-100412,2025-03-15,West,Electronics,Laptop,3065.12,3,849.13,0.0,1254.89,Corporate
+ORD-100508,2025-03-15,North,Office Supplies,Pens Set,1913.74,11,144.59,0.0,509.0,Corporate
+ORD-101018,2025-03-15,East,Electronics,Laptop,397.67,2,165.25,0.0,157.41,Consumer
+ORD-100831,2025-03-16,South,Office Supplies,Desk Organizer,2005.58,11,151.47,0.0,447.59,Corporate
+ORD-100582,2025-03-16,East,Electronics,Monitor,1367.64,1,1378.88,0.176,214.11,Consumer
+ORD-101180,2025-03-17,West,Apparel,Winter Jacket,226.26,2,93.95,0.0,60.88,Corporate
+ORD-101109,2025-03-17,South,Electronics,Headphones,4098.95,11,367.52,0.158,980.3,Corporate
+ORD-100676,2025-03-17,South,Grocery,Snack Box,134.05,4,27.83,0.0,30.79,Consumer
+ORD-101202,2025-03-18,South,Apparel,Backpack,181.27,9,16.72,0.0,59.94,Consumer
+ORD-100153,2025-03-19,North,Office Supplies,Desk Organizer,887.67,10,73.66,0.0,294.28,Consumer
+ORD-101499,2025-03-19,North,Office Supplies,Whiteboard,13.62,1,13.58,0.168,-0.22,Corporate
+ORD-100678,2025-03-19,North,Electronics,Tablet,870.51,4,180.59,0.0,212.06,Consumer
+ORD-100322,2025-03-19,East,Furniture,Desk Chair,2007.11,2,832.76,0.0,682.7,Corporate
+ORD-101214,2025-03-20,West,Electronics,Monitor,19754.41,11,1489.65,0.0,1276.13,Corporate
+ORD-101209,2025-03-21,East,Furniture,Desk Chair,6004.24,8,622.32,0.0,1742.68,Consumer
+ORD-100144,2025-03-22,North,Furniture,Conference Table,4283.14,7,612.51,0.172,-215.82,Home Office
+ORD-100671,2025-03-22,North,Office Supplies,Whiteboard,397.66,4,82.4,0.0,62.04,Corporate
+ORD-100526,2025-03-23,West,Grocery,Snack Box,195.52,8,20.25,0.0,56.12,Consumer
+ORD-101197,2025-03-23,North,Office Supplies,Paper Reams,1285.82,5,213.07,0.0,406.24,Home Office
+ORD-101095,2025-03-24,West,Furniture,Conference Table,4107.17,11,309.24,0.0,920.82,Consumer
+ORD-101178,2025-03-24,East,Electronics,Laptop,6047.37,3,1669.52,0.0,1864.03,Corporate
+ORD-100772,2025-03-24,East,Office Supplies,Desk Organizer,1258.47,9,115.81,0.0,231.97,Corporate
+ORD-100156,2025-03-26,North,Electronics,Monitor,7020.22,8,878.15,0.173,112.07,Consumer
+ORD-101291,2025-03-26,North,Office Supplies,Whiteboard,591.83,7,69.97,0.0,150.0,Consumer
+ORD-101404,2025-03-26,South,Electronics,Headphones,12454.29,10,1030.7,0.0,3078.16,Consumer
+ORD-101184,2025-03-27,South,Electronics,Monitor,563.42,2,233.05,0.0,93.47,Home Office
+ORD-101219,2025-03-27,East,Electronics,Smartphone,3291.67,7,448.69,0.133,174.8,Corporate
+ORD-100652,2025-03-28,West,Office Supplies,Paper Reams,2172.33,11,163.31,0.0,1112.95,Consumer
+ORD-101342,2025-03-28,South,Office Supplies,Desk Organizer,2047.81,8,211.68,0.0,648.84,Corporate
+ORD-101345,2025-03-28,East,Office Supplies,Desk Organizer,1121.93,7,132.54,0.0,416.9,Home Office
+ORD-101043,2025-03-29,North,Office Supplies,Whiteboard,159.09,3,61.83,0.291,-0.13,Home Office
+ORD-100056,2025-03-29,West,Furniture,Bookshelf,1903.91,8,196.73,0.0,499.17,Corporate
+ORD-100656,2025-03-30,North,Apparel,Running Shoes,1197.66,5,197.93,0.0,405.2,Consumer
+ORD-100150,2025-03-30,North,Apparel,T-Shirt Pack,3466.99,11,260.44,0.0,1140.56,Consumer
+ORD-101160,2025-03-30,West,Electronics,Smartphone,7311.23,7,1105.07,0.219,-3.3,Corporate
+ORD-101016,2025-03-30,North,Office Supplies,Pens Set,584.04,5,96.52,0.0,110.42,Consumer
+ORD-100301,2025-03-31,East,Electronics,Monitor,11613.63,10,959.29,0.0,5902.09,Consumer
+ORD-100410,2025-03-31,North,Office Supplies,Desk Organizer,124.62,9,12.18,0.061,30.94,Corporate
+ORD-101279,2025-03-31,North,Office Supplies,Paper Reams,624.57,4,179.63,0.282,48.27,Corporate
+ORD-100776,2025-03-31,East,Office Supplies,Pens Set,361.81,3,99.62,0.0,40.56,Corporate
+ORD-100597,2025-03-31,South,Office Supplies,Desk Organizer,423.91,5,70.03,0.0,30.35,Home Office
+ORD-100771,2025-04-01,East,Office Supplies,Desk Organizer,693.97,4,143.25,0.0,275.1,Home Office
+ORD-100165,2025-04-03,West,Furniture,Desk Chair,1569.76,2,647.57,0.0,137.37,Corporate
+ORD-100298,2025-04-03,East,Apparel,Running Shoes,1333.91,11,100.05,0.0,460.52,Consumer
+ORD-100852,2025-04-03,North,Apparel,T-Shirt Pack,1121.43,4,231.31,0.0,458.54,Consumer
+ORD-100149,2025-04-03,West,Electronics,Laptop,1638.41,1,1351.78,0.0,877.99,Consumer
+ORD-100253,2025-04-03,West,Electronics,Smartphone,9596.53,11,719.79,0.0,2759.04,Consumer
+ORD-101062,2025-04-04,East,Electronics,Tablet,5034.12,8,579.22,0.104,992.63,Consumer
+ORD-101063,2025-04-04,East,Office Supplies,Whiteboard,135.44,5,22.34,0.0,80.36,Corporate
+ORD-100047,2025-04-04,East,Electronics,Tablet,614.18,2,281.41,0.1,116.97,Corporate
+ORD-100432,2025-04-04,West,Office Supplies,Paper Reams,40.39,1,33.31,0.0,7.21,Home Office
+ORD-100180,2025-04-05,East,Grocery,Tea Assortment,5.92,1,5.09,0.041,1.23,Home Office
+ORD-100272,2025-04-05,East,Electronics,Monitor,10843.4,8,1117.45,0.0,3380.79,Corporate
+ORD-100983,2025-04-06,South,Furniture,Bookshelf,9968.18,11,746.81,0.0,3299.33,Consumer
+ORD-100387,2025-04-06,North,Grocery,Snack Box,37.57,3,10.32,0.0,7.71,Home Office
+ORD-100213,2025-04-07,West,Apparel,T-Shirt Pack,2158.78,9,197.6,0.0,342.77,Corporate
+ORD-101276,2025-04-07,East,Electronics,Monitor,4729.68,5,779.26,0.0,1514.52,Consumer
+ORD-101168,2025-04-07,East,Apparel,T-Shirt Pack,1945.09,9,178.04,0.0,373.78,Corporate
+ORD-101032,2025-04-07,East,Office Supplies,Whiteboard,412.96,6,56.7,0.0,114.67,Corporate
+ORD-100066,2025-04-07,North,Office Supplies,Paper Reams,1174.27,8,120.92,0.0,578.87,Consumer
+ORD-100346,2025-04-07,South,Grocery,Coffee Beans,487.91,7,57.42,0.0,40.42,Corporate
+ORD-100377,2025-04-07,South,Furniture,Conference Table,5109.74,5,841.88,0.0,727.4,Home Office
+ORD-101212,2025-04-08,North,Office Supplies,Whiteboard,1247.99,9,160.83,0.29,-63.8,Consumer
+ORD-100913,2025-04-08,East,Grocery,Tea Assortment,219.41,4,45.17,0.0,122.68,Consumer
+ORD-100024,2025-04-08,East,Apparel,Winter Jacket,1002.25,4,270.78,0.238,-46.61,Consumer
+ORD-100881,2025-04-08,North,Office Supplies,Desk Organizer,386.92,2,159.31,0.0,129.78,Home Office
+ORD-100014,2025-04-09,West,Furniture,Standing Desk,1796.18,8,184.82,0.0,647.67,Consumer
+ORD-100728,2025-04-09,North,Furniture,Standing Desk,891.87,1,734.16,0.0,454.43,Corporate
+ORD-100769,2025-04-09,West,Office Supplies,Paper Reams,120.17,1,98.92,0.0,31.08,Corporate
+ORD-100522,2025-04-10,North,Electronics,Monitor,2129.42,9,194.69,0.0,930.84,Consumer
+ORD-100112,2025-04-10,West,Furniture,Desk Chair,373.36,1,307.22,0.0,97.88,Corporate
+ORD-101199,2025-04-10,West,Apparel,Backpack,2785.34,11,226.23,0.079,747.56,Consumer
+ORD-101490,2025-04-10,West,Electronics,Laptop,8317.7,4,1711.07,0.0,1821.77,Corporate
+ORD-100624,2025-04-11,South,Grocery,Snack Box,28.04,8,3.71,0.223,-2.07,Corporate
+ORD-100034,2025-04-11,North,Furniture,Conference Table,5755.01,6,944.86,0.165,2005.55,Home Office
+ORD-100862,2025-04-11,South,Apparel,T-Shirt Pack,49.83,1,40.99,0.0,9.89,Corporate
+ORD-100708,2025-04-11,North,Furniture,Bookshelf,641.49,1,607.2,0.131,99.79,Consumer
+ORD-100221,2025-04-11,North,Office Supplies,Desk Organizer,635.82,9,58.11,0.0,200.91,Home Office
+ORD-100075,2025-04-12,North,Electronics,Headphones,11753.87,10,999.42,0.033,1742.9,Home Office
+ORD-101371,2025-04-12,South,Grocery,Snack Box,680.95,11,50.9,0.0,205.7,Consumer
+ORD-101326,2025-04-13,South,Furniture,Bookshelf,4295.05,4,922.2,0.043,1052.3,Consumer
+ORD-100571,2025-04-13,South,Apparel,Backpack,2374.34,11,177.41,0.0,1028.59,Consumer
+ORD-100254,2025-04-14,South,Electronics,Monitor,12073.97,6,1653.34,0.0,2953.37,Consumer
+ORD-100497,2025-04-14,South,Office Supplies,Paper Reams,572.1,4,117.51,0.0,84.14,Corporate
+ORD-100192,2025-04-14,North,Electronics,Monitor,3310.31,8,447.33,0.24,-278.61,Corporate
+ORD-101422,2025-04-14,North,Furniture,Desk Chair,793.54,2,325.99,0.0,155.16,Corporate
+ORD-100311,2025-04-14,South,Furniture,Bookshelf,7543.99,9,815.98,0.156,1689.67,Home Office
+ORD-100182,2025-04-15,East,Office Supplies,Desk Organizer,1672.58,7,196.24,0.0,354.5,Consumer
+ORD-100828,2025-04-15,East,Apparel,Running Shoes,2479.27,11,204.09,0.093,940.09,Home Office
+ORD-100947,2025-04-16,South,Apparel,Backpack,230.03,1,232.86,0.189,7.62,Consumer
+ORD-101444,2025-04-16,South,Electronics,Monitor,980.58,4,201.26,0.0,130.26,Consumer
+ORD-100359,2025-04-17,North,Office Supplies,Desk Organizer,1384.6,11,117.52,0.121,320.52,Corporate
+ORD-100337,2025-04-17,South,Office Supplies,Paper Reams,735.0,7,86.17,0.0,176.02,Home Office
+ORD-101269,2025-04-17,West,Office Supplies,Pens Set,262.16,3,91.01,0.212,74.91,Corporate
+ORD-100143,2025-04-18,North,Office Supplies,Desk Organizer,2098.74,11,156.52,0.0,482.36,Consumer
+ORD-100126,2025-04-18,South,Furniture,Standing Desk,357.32,1,293.13,0.0,111.07,Corporate
+ORD-101206,2025-04-18,West,Office Supplies,Whiteboard,116.92,1,134.15,0.285,-8.55,Consumer
+ORD-100025,2025-04-18,North,Electronics,Laptop,1930.16,1,1583.42,0.0,900.51,Consumer
+ORD-100874,2025-04-18,South,Office Supplies,Desk Organizer,664.06,9,60.53,0.0,257.09,Home Office
+ORD-100813,2025-04-19,North,Office Supplies,Whiteboard,277.85,7,32.55,0.0,56.04,Consumer
+ORD-100906,2025-04-19,East,Office Supplies,Whiteboard,220.62,1,180.92,0.0,54.85,Home Office
+ORD-100807,2025-04-19,South,Electronics,Smartphone,16741.41,8,1716.09,0.0,7252.64,Corporate
+ORD-100406,2025-04-19,South,Electronics,Tablet,19636.41,11,1736.52,0.157,2718.83,Corporate
+ORD-101045,2025-04-19,South,Furniture,Desk Chair,12303.76,11,917.24,0.0,368.78,Consumer
+ORD-100681,2025-04-19,West,Electronics,Headphones,15817.86,10,1611.35,0.195,841.68,Consumer
+ORD-100847,2025-04-20,West,Office Supplies,Desk Organizer,895.52,7,104.87,0.0,77.73,Corporate
+ORD-101389,2025-04-20,North,Electronics,Laptop,5647.36,10,496.71,0.068,1818.65,Corporate
+ORD-101338,2025-04-21,South,Apparel,Running Shoes,134.97,2,55.3,0.0,69.02,Corporate
+ORD-100313,2025-04-21,North,Furniture,Standing Desk,2244.18,9,212.84,0.04,658.61,Corporate
+ORD-100806,2025-04-22,East,Office Supplies,Paper Reams,794.15,5,130.1,0.0,296.38,Corporate
+ORD-100468,2025-04-22,South,Electronics,Laptop,2103.08,1,1722.66,0.0,945.58,Consumer
+ORD-101077,2025-04-22,West,Office Supplies,Whiteboard,242.52,1,238.48,0.167,-16.89,Corporate
+ORD-100179,2025-04-22,East,Apparel,Winter Jacket,893.59,5,146.39,0.0,256.21,Corporate
+ORD-100723,2025-04-23,North,Grocery,Snack Box,9.45,1,10.37,0.254,2.65,Consumer
+ORD-100672,2025-04-23,East,Grocery,Coffee Beans,101.17,3,32.07,0.139,6.09,Consumer
+ORD-100398,2025-04-24,North,Furniture,Bookshelf,2068.94,3,564.47,0.0,379.54,Corporate
+ORD-100758,2025-04-24,North,Electronics,Monitor,5974.04,6,814.95,0.0,507.6,Home Office
+ORD-100797,2025-04-24,North,Electronics,Headphones,5903.5,11,439.27,0.0,429.98,Corporate
+ORD-100804,2025-04-25,South,Electronics,Monitor,17674.25,9,1606.75,0.0,3924.96,Consumer
+ORD-101350,2025-04-26,South,Apparel,Winter Jacket,352.92,11,26.24,0.0,153.7,Consumer
+ORD-101102,2025-04-27,South,Apparel,Backpack,938.39,5,189.43,0.19,90.97,Corporate
+ORD-101297,2025-04-27,South,Electronics,Headphones,3095.91,10,253.11,0.0,596.72,Corporate
+ORD-101377,2025-04-28,South,Apparel,T-Shirt Pack,2629.11,7,306.95,0.0,330.16,Consumer
+ORD-101073,2025-04-28,West,Grocery,Tea Assortment,203.12,5,33.2,0.0,85.85,Consumer
+ORD-101293,2025-04-28,West,Furniture,Desk Chair,754.98,3,205.67,0.0,216.56,Corporate
+ORD-100214,2025-04-28,South,Office Supplies,Pens Set,160.2,2,65.46,0.0,22.68,Consumer
+ORD-101420,2025-04-30,West,Office Supplies,Whiteboard,305.64,8,32.5,0.04,68.49,Consumer
+ORD-100247,2025-04-30,East,Furniture,Bookshelf,2248.89,2,918.26,0.0,480.97,Home Office
+ORD-100427,2025-05-01,East,Apparel,T-Shirt Pack,497.85,3,135.47,0.0,21.98,Home Office
+ORD-101194,2025-05-01,West,Apparel,Backpack,3157.68,10,257.77,0.0,776.21,Consumer
+ORD-101486,2025-05-02,North,Grocery,Olive Oil,756.67,4,18.07,0.143,9.31,Corporate
+ORD-100638,2025-05-02,West,Apparel,T-Shirt Pack,2520.83,8,257.13,0.0,637.74,Home Office
+ORD-101124,2025-05-04,East,Furniture,Bookshelf,1225.27,3,333.03,0.0,272.04,Home Office
+ORD-100659,2025-05-05,North,Furniture,Conference Table,1495.84,3,449.08,0.095,36.01,Consumer
+ORD-100826,2025-05-06,North,Office Supplies,Paper Reams,70.39,5,11.47,0.0,19.14,Consumer
+ORD-101427,2025-05-06,East,Electronics,Smartphone,3362.25,7,391.36,0.0,802.45,Consumer
+ORD-100961,2025-05-06,East,Furniture,Standing Desk,1429.02,5,232.87,0.0,260.15,Consumer
+ORD-100469,2025-05-06,East,Office Supplies,Whiteboard,2010.74,10,208.97,0.216,251.46,Home Office
+ORD-100730,2025-05-06,South,Furniture,Conference Table,8630.88,9,781.37,0.0,2705.24,Home Office
+ORD-100175,2025-05-07,West,Electronics,Monitor,24097.29,11,1784.25,0.0,2315.25,Consumer
+ORD-101158,2025-05-08,North,Furniture,Bookshelf,2132.05,7,247.98,0.0,16.49,Consumer
+ORD-100959,2025-05-08,East,Office Supplies,Pens Set,1344.43,5,218.92,0.0,271.85,Consumer
+ORD-100463,2025-05-09,North,Furniture,Desk Chair,1916.47,5,311.95,0.0,353.95,Consumer
+ORD-100518,2025-05-09,East,Electronics,Laptop,2910.92,5,473.82,0.0,1090.47,Corporate
+ORD-100323,2025-05-09,East,Office Supplies,Whiteboard,452.78,11,33.5,0.0,92.35,Home Office
+ORD-100565,2025-05-09,West,Office Supplies,Desk Organizer,919.87,6,168.16,0.258,-74.46,Home Office
+ORD-100196,2025-05-09,North,Office Supplies,Paper Reams,1407.14,6,190.87,0.0,378.15,Corporate
+ORD-101463,2025-05-09,East,Furniture,Bookshelf,3201.06,3,868.41,0.0,826.87,Home Office
+ORD-100498,2025-05-10,West,Furniture,Bookshelf,3488.65,7,405.46,0.0,1120.79,Consumer
+ORD-100154,2025-05-10,West,Electronics,Smartphone,8160.0,8,829.83,0.0,3945.3,Consumer
+ORD-100992,2025-05-10,North,Apparel,Running Shoes,1393.65,4,291.62,0.028,611.78,Consumer
+ORD-100738,2025-05-10,South,Furniture,Conference Table,5311.79,8,769.49,0.298,-404.72,Corporate
+ORD-100293,2025-05-10,East,Electronics,Smartphone,2193.98,1,1784.93,0.0,580.35,Consumer
+ORD-101257,2025-05-10,East,Apparel,T-Shirt Pack,2007.08,7,291.95,0.201,48.81,Consumer
+ORD-100500,2025-05-11,West,Apparel,Backpack,1807.74,5,294.03,0.0,615.21,Consumer
+ORD-100948,2025-05-11,East,Apparel,Backpack,631.34,3,233.17,0.266,56.87,Home Office
+ORD-101041,2025-05-11,South,Office Supplies,Whiteboard,198.46,3,53.8,0.0,77.03,Corporate
+ORD-100977,2025-05-11,North,Furniture,Conference Table,2470.87,8,251.18,0.0,884.49,Consumer
+ORD-100525,2025-05-12,South,Furniture,Standing Desk,3300.9,3,949.56,0.058,719.78,Consumer
+ORD-100246,2025-05-12,East,Office Supplies,Desk Organizer,1981.73,8,225.51,0.107,289.87,Consumer
+ORD-101129,2025-05-12,North,Grocery,Snack Box,209.92,11,20.36,0.238,23.68,Home Office
+ORD-100080,2025-05-12,West,Office Supplies,Desk Organizer,293.82,6,52.52,0.242,43.62,Consumer
+ORD-100837,2025-05-12,South,Grocery,Snack Box,531.23,11,39.26,0.0,228.6,Consumer
+ORD-100138,2025-05-12,North,Apparel,Backpack,435.88,5,70.87,0.0,109.36,Corporate
+ORD-100203,2025-05-13,East,Electronics,Monitor,5854.23,11,432.49,0.0,830.38,Corporate
+ORD-100564,2025-05-13,South,Office Supplies,Whiteboard,674.71,5,109.66,0.0,227.5,Home Office
+ORD-100509,2025-05-14,East,Electronics,Tablet,4842.16,5,1086.59,0.276,781.01,Consumer
+ORD-101231,2025-05-15,South,Office Supplies,Pens Set,806.28,11,59.52,0.0,234.06,Consumer
+ORD-100762,2025-05-15,South,Electronics,Monitor,12181.17,6,1648.58,0.0,3613.08,Consumer
+ORD-100046,2025-05-15,North,Furniture,Conference Table,5712.34,11,421.69,0.0,2581.44,Consumer
+ORD-101287,2025-05-16,East,Furniture,Conference Table,762.23,4,181.55,0.148,52.16,Consumer
+ORD-101262,2025-05-17,North,Furniture,Desk Chair,5965.54,11,555.62,0.208,-226.55,Consumer
+ORD-100586,2025-05-17,South,Electronics,Headphones,1396.11,9,125.87,0.0,425.02,Consumer
+ORD-101415,2025-05-17,North,Apparel,Running Shoes,1330.26,4,269.85,0.0,390.31,Corporate
+ORD-101169,2025-05-18,South,Electronics,Headphones,386.21,2,156.63,0.0,55.84,Consumer
+ORD-100519,2025-05-18,South,Apparel,T-Shirt Pack,852.39,7,107.71,0.083,115.18,Corporate
+ORD-100888,2025-05-19,East,Electronics,Laptop,6991.69,6,1142.47,0.173,-420.75,Home Office
+ORD-100726,2025-05-20,East,Electronics,Tablet,1854.39,10,178.08,0.156,121.12,Home Office
+ORD-101452,2025-05-20,North,Apparel,T-Shirt Pack,1583.57,9,142.61,0.0,535.63,Corporate
+ORD-101227,2025-05-20,North,Furniture,Bookshelf,3972.85,9,357.78,0.0,896.81,Consumer
+ORD-101177,2025-05-21,West,Furniture,Standing Desk,6861.69,6,926.56,0.0,1928.53,Home Office
+ORD-100910,2025-05-21,East,Apparel,Running Shoes,2544.0,9,242.86,0.057,342.28,Corporate
+ORD-101008,2025-05-21,East,Office Supplies,Paper Reams,92.2,9,8.3,0.0,35.08,Consumer
+ORD-100212,2025-05-21,West,Electronics,Monitor,7521.48,8,761.74,0.0,1718.61,Corporate
+ORD-100243,2025-05-21,West,Office Supplies,Whiteboard,2129.13,9,191.67,0.0,15.95,Consumer
+ORD-100334,2025-05-21,North,Electronics,Laptop,10173.31,6,1373.74,0.0,5008.63,Consumer
+ORD-101323,2025-05-22,West,Apparel,Running Shoes,2581.85,7,298.72,0.0,1101.02,Consumer
+ORD-100627,2025-05-22,South,Electronics,Laptop,4072.58,3,1099.46,0.0,1674.43,Corporate
+ORD-100362,2025-05-22,West,Electronics,Laptop,9815.45,8,993.69,0.0,4990.33,Corporate
+ORD-101146,2025-05-23,East,Apparel,Running Shoes,731.72,5,118.48,0.0,135.47,Consumer
+ORD-100827,2025-05-23,North,Electronics,Laptop,19353.99,10,1566.89,0.0,3127.01,Consumer
+ORD-100361,2025-05-24,West,Electronics,Smartphone,16231.72,11,1194.2,0.0,3985.27,Consumer
+ORD-101346,2025-05-24,North,Furniture,Conference Table,1343.74,3,375.64,0.035,118.77,Corporate
+ORD-100164,2025-05-25,West,Office Supplies,Pens Set,1650.84,7,214.85,0.112,372.43,Corporate
+ORD-100711,2025-05-27,South,Office Supplies,Desk Organizer,2300.93,9,206.67,0.0,479.63,Corporate
+ORD-101236,2025-05-27,North,Electronics,Laptop,2718.35,3,732.49,0.0,92.22,Consumer
+ORD-100548,2025-05-27,North,Apparel,Running Shoes,950.38,4,235.09,0.183,-30.76,Consumer
+ORD-101078,2025-05-28,North,Office Supplies,Whiteboard,104.55,3,34.81,0.191,2.36,Consumer
+ORD-100570,2025-05-28,West,Furniture,Standing Desk,8518.95,10,688.4,0.0,1761.59,Corporate
+ORD-100587,2025-05-30,South,Furniture,Bookshelf,5703.32,5,921.06,0.0,1984.62,Consumer
+ORD-101038,2025-06-01,North,Furniture,Conference Table,7388.98,7,851.71,0.0,4572.11,Consumer
+ORD-100044,2025-06-01,South,Apparel,T-Shirt Pack,218.44,1,176.25,0.0,129.71,Corporate
+ORD-100270,2025-06-02,East,Electronics,Laptop,8877.17,8,895.01,0.0,3789.13,Home Office
+ORD-100994,2025-06-02,West,Grocery,Tea Assortment,360.19,6,48.42,0.0,105.2,Consumer
+ORD-101425,2025-06-03,East,Furniture,Standing Desk,2015.93,8,242.45,0.162,-23.25,Consumer
+ORD-100446,2025-06-05,North,Grocery,Tea Assortment,350.21,7,42.34,0.048,136.33,Corporate
+ORD-100610,2025-06-06,East,Office Supplies,Pens Set,1455.81,9,173.93,0.251,4.69,Corporate
+ORD-100569,2025-06-06,East,Office Supplies,Whiteboard,1343.61,5,216.42,0.0,379.19,Consumer
+ORD-100054,2025-06-06,North,Office Supplies,Whiteboard,143.24,8,14.42,0.0,44.2,Corporate
+ORD-101026,2025-06-06,West,Grocery,Olive Oil,92.33,2,37.18,0.0,24.46,Corporate
+ORD-101096,2025-06-06,North,Electronics,Headphones,4591.78,4,924.52,0.0,1157.25,Corporate
+ORD-101358,2025-06-08,East,Office Supplies,Paper Reams,358.16,4,72.06,0.0,120.6,Consumer
+ORD-100184,2025-06-08,North,Apparel,T-Shirt Pack,1032.25,11,75.52,0.0,390.67,Consumer
+ORD-101270,2025-06-09,North,Grocery,Olive Oil,64.66,1,52.02,0.0,15.23,Home Office
+ORD-101482,2025-06-09,North,Office Supplies,Pens Set,168.6,1,135.63,0.0,71.76,Corporate
+ORD-100654,2025-06-09,East,Apparel,T-Shirt Pack,1080.71,5,173.88,0.0,-70.22,Consumer
+ORD-100219,2025-06-09,West,Furniture,Conference Table,5713.46,10,459.63,0.0,2123.61,Consumer
+ORD-101391,2025-06-10,West,Apparel,Winter Jacket,129.51,6,19.33,0.102,21.25,Corporate
+ORD-100026,2025-06-10,South,Furniture,Conference Table,2108.71,8,211.97,0.0,548.81,Consumer
+ORD-101198,2025-06-10,South,Electronics,Tablet,4140.0,3,1304.06,0.149,68.62,Consumer
+ORD-101460,2025-06-10,West,Apparel,Backpack,403.0,2,162.04,0.0,51.34,Consumer
+ORD-101259,2025-06-11,East,Grocery,Olive Oil,26.86,5,5.9,0.268,-2.4,Consumer
+ORD-100401,2025-06-11,North,Grocery,Coffee Beans,36.92,2,14.84,0.0,10.96,Home Office
+ORD-101116,2025-06-12,North,Electronics,Smartphone,9494.49,10,762.95,0.0,3290.89,Corporate
+ORD-100191,2025-06-12,West,Electronics,Laptop,3973.73,10,348.6,0.084,668.91,Consumer
+ORD-101320,2025-06-12,South,Office Supplies,Desk Organizer,134.44,8,19.02,0.29,-4.23,Home Office
+ORD-100278,2025-06-13,South,Apparel,Winter Jacket,1820.53,6,243.73,0.0,157.14,Consumer
+ORD-100648,2025-06-13,West,Office Supplies,Whiteboard,1399.88,7,220.66,0.272,-337.33,Consumer
+ORD-101099,2025-06-13,West,Electronics,Smartphone,1145.14,8,137.21,0.162,-31.36,Home Office
+ORD-100093,2025-06-13,South,Furniture,Conference Table,4541.95,6,608.07,0.0,1040.8,Home Office
+ORD-100402,2025-06-13,West,Apparel,Running Shoes,19.59,1,15.74,0.0,2.23,Corporate
+ORD-100038,2025-06-13,West,Electronics,Laptop,3922.32,7,489.77,0.081,568.45,Consumer
+ORD-101132,2025-06-13,West,Electronics,Smartphone,422.26,1,339.19,0.0,129.2,Consumer
+ORD-100167,2025-06-13,North,Apparel,Running Shoes,1740.68,9,155.36,0.0,236.07,Consumer
+ORD-100907,2025-06-13,South,Electronics,Monitor,1411.45,1,1478.2,0.233,-34.22,Home Office
+ORD-101304,2025-06-14,North,Apparel,T-Shirt Pack,1571.67,8,177.05,0.109,283.29,Consumer
+ORD-100132,2025-06-14,East,Office Supplies,Desk Organizer,1928.94,11,176.23,0.201,250.9,Consumer
+ORD-100876,2025-06-14,West,Furniture,Conference Table,116.87,1,102.67,0.086,21.06,Consumer
+ORD-100887,2025-06-15,North,Electronics,Tablet,4216.42,6,564.07,0.0,401.8,Home Office
+ORD-101412,2025-06-15,East,Apparel,Backpack,399.25,8,44.02,0.09,112.53,Corporate
+ORD-101149,2025-06-15,West,Grocery,Olive Oil,510.48,11,37.25,0.0,129.95,Consumer
+ORD-101174,2025-06-16,East,Office Supplies,Whiteboard,340.8,3,91.15,0.0,73.94,Corporate
+ORD-101488,2025-06-16,North,Grocery,Tea Assortment,15.15,1,12.16,0.0,3.98,Consumer
+ORD-100205,2025-06-16,West,Electronics,Monitor,7967.51,6,1257.96,0.153,654.52,Consumer
+ORD-100794,2025-06-17,South,Electronics,Tablet,4030.02,3,1181.43,0.088,925.63,Corporate
+ORD-100840,2025-06-18,North,Electronics,Tablet,11345.71,7,1299.54,0.0,4322.37,Corporate
+ORD-100121,2025-06-18,East,Office Supplies,Pens Set,1269.6,11,92.54,0.0,489.58,Consumer
+ORD-100085,2025-06-18,West,Electronics,Tablet,14613.75,8,1464.63,0.0,4629.48,Consumer
+ORD-100515,2025-06-18,East,Electronics,Headphones,1133.31,1,908.67,0.0,368.73,Corporate
+ORD-100810,2025-06-18,West,Electronics,Tablet,2006.18,4,402.13,0.0,666.45,Corporate
+ORD-101321,2025-06-19,East,Furniture,Conference Table,699.08,5,112.06,0.0,298.29,Corporate
+ORD-100782,2025-06-19,South,Furniture,Desk Chair,4617.21,6,616.77,0.0,1877.42,Home Office
+ORD-100344,2025-06-20,North,Apparel,Backpack,841.47,9,101.64,0.263,-1.0,Corporate
+ORD-101400,2025-06-20,South,Furniture,Conference Table,2733.44,4,547.5,0.0,533.95,Corporate
+ORD-100316,2025-06-20,West,Furniture,Conference Table,1353.99,2,542.4,0.0,454.65,Corporate
+ORD-100058,2025-06-20,East,Electronics,Headphones,18444.51,10,1477.75,0.0,5645.47,Consumer
+ORD-101189,2025-06-21,East,Office Supplies,Pens Set,145.21,1,160.85,0.277,19.18,Consumer
+ORD-100291,2025-06-21,South,Electronics,Headphones,5285.9,3,1679.93,0.16,511.4,Corporate
+ORD-100996,2025-06-22,East,Office Supplies,Pens Set,668.92,3,178.51,0.0,166.36,Consumer
+ORD-100369,2025-06-22,West,Grocery,Snack Box,53.74,1,43.02,0.0,7.2,Consumer
+ORD-100563,2025-06-22,North,Office Supplies,Whiteboard,1134.56,4,227.08,0.0,275.03,Consumer
+ORD-100122,2025-06-22,West,Electronics,Tablet,1266.68,1,1273.99,0.204,89.91,Consumer
+ORD-100592,2025-06-23,East,Furniture,Desk Chair,558.32,1,458.28,0.025,174.26,Home Office
+ORD-100779,2025-06-23,East,Apparel,T-Shirt Pack,1970.32,8,235.49,0.163,58.99,Home Office
+ORD-100636,2025-06-23,South,Office Supplies,Desk Organizer,181.99,5,36.32,0.198,-7.8,Home Office
+ORD-101091,2025-06-23,West,Office Supplies,Desk Organizer,424.26,3,141.12,0.198,16.2,Corporate

@@ -1,0 +1,31 @@
+# Secrets & local env
+.env
+*.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Build / tooling
+dist/
+build/
+node_modules/
+
+# App artifacts
+reports/*.csv
+reports/*.md
+reports/*.html
+!reports/README.md
+data/uploads/
+
+# IDE / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
